@@ -1,0 +1,1201 @@
+CGPA,Programming Skill (1-10),Math Skill (1-10),Problem Solving (1-10),Communication Skill (1-10),Cybersecurity Knowledge (1-10),Database Knowledge (1-10),AI/ML Knowledge (1-10),Networking Skill (1-10),Creativity (1-10),Leadership (1-10),Mobile Dev Skill (1-10),Cloud Computing Skill (1-10),Blockchain Knowledge (1-10),Robotics Skill (1-10),System Design (1-10),Design Skill (1-10),Preferred Interest,Suggested Career
+7.12,5,1,2,9,8,7,2,9,8,3,2,6,7,1,2,5,Analytics,You don’t have enough skills yet. Keep learning!
+9.16,5,5,8,9,4,6,2,9,5,3,4,6,5,9,4,5,Networking,You don’t have enough skills yet. Keep learning!
+7.57,5,7,2,10,1,7,8,4,5,7,9,6,6,7,9,3,Systems,You don’t have enough skills yet. Keep learning!
+6.19,3,9,8,8,9,4,8,6,1,10,1,9,5,6,3,6,Research,IoT Engineer
+6.48,10,4,1,2,10,3,3,3,6,7,2,2,5,8,8,7,Networking,Robotics Engineer
+9.22,8,8,3,4,3,7,1,6,8,3,9,1,8,1,4,1,Coding,Blockchain Developer
+9.08,5,4,1,8,6,2,10,5,10,9,4,1,3,3,5,8,Design,UI/UX Designer
+8.11,7,8,5,8,7,9,3,3,9,1,4,10,3,10,6,7,Coding,Robotics Engineer
+9.91,4,9,5,4,1,5,3,6,3,10,4,3,2,5,9,4,Coding,You don’t have enough skills yet. Keep learning!
+7.1,9,3,2,3,6,7,8,10,8,2,1,1,3,2,1,8,Networking,Game Developer
+8.88,8,10,8,10,8,5,4,10,1,3,10,9,3,2,7,1,Coding,Network Engineer
+6.84,10,5,10,2,3,5,2,8,10,9,4,5,7,10,2,10,Coding,UI/UX Designer
+9.86,3,1,9,3,5,9,8,7,6,3,2,10,9,10,6,6,Systems,Database Administrator
+8.12,10,2,9,9,5,4,9,10,1,8,9,9,4,9,8,8,Analytics,Project Manager
+6.89,10,7,3,1,3,10,4,6,7,4,5,10,4,3,3,3,Design,Web Developer
+8.39,8,7,8,3,10,5,4,10,10,5,3,2,9,6,10,9,Coding,UI/UX Designer
+7.93,6,4,7,6,1,10,3,1,3,8,6,8,10,9,10,4,Networking,Database Administrator
+9.93,1,4,2,9,10,7,10,10,2,1,4,5,4,8,6,6,Networking,Cybersecurity Specialist
+7.14,6,6,7,1,9,3,3,5,2,8,5,1,1,3,4,10,Design,Software Engineer
+7.55,8,6,2,8,1,8,4,3,1,2,1,6,3,9,5,9,Research,Robotics Engineer
+9.67,9,8,10,3,9,6,4,2,7,1,5,2,4,1,4,5,Systems,Embedded Systems Engineer
+9.21,5,1,3,5,5,8,10,6,9,8,1,7,9,7,5,1,Analytics,You don’t have enough skills yet. Keep learning!
+7.79,1,9,9,2,6,7,3,1,8,10,2,4,5,10,2,2,Networking,Data Analyst
+6.59,8,10,9,1,5,10,5,4,8,1,2,8,3,2,2,7,Systems,Embedded Systems Engineer
+8.89,8,1,1,4,10,7,7,3,7,7,7,5,2,9,6,1,Management,Robotics Engineer
+7.95,5,1,4,9,9,9,2,9,2,8,2,9,5,6,7,3,Networking,Project Manager
+7.83,9,9,8,4,5,3,2,4,8,6,6,1,8,6,8,8,Coding,Blockchain Developer
+6.88,10,5,6,10,3,4,7,10,6,5,5,6,8,1,10,9,Analytics,Network Engineer
+8.29,10,8,2,4,9,4,7,3,7,8,10,5,7,7,1,4,Systems,Embedded Systems Engineer
+7.61,8,1,10,5,3,4,3,2,5,7,10,9,7,4,9,8,Research,Mobile App Developer
+7.98,1,4,9,2,5,7,3,4,3,4,3,4,9,4,1,5,Research,You don’t have enough skills yet. Keep learning!
+9.55,4,6,7,6,9,9,8,4,7,5,2,1,2,4,7,6,Design,Database Administrator
+7.84,2,8,9,2,3,5,3,8,4,10,5,4,5,3,2,3,Research,Data Analyst
+9.38,8,8,4,7,8,9,1,9,5,9,4,8,10,9,7,6,Research,Network Engineer
+8.95,4,8,7,1,4,1,3,9,1,9,7,4,6,1,2,7,Management,Data Analyst
+9.52,6,5,10,6,10,5,2,2,3,8,6,7,2,4,7,7,Design,Software Engineer
+6.44,2,5,1,10,9,2,2,4,9,3,7,6,7,1,3,5,Management,You don’t have enough skills yet. Keep learning!
+9.92,3,5,7,5,6,3,10,1,10,5,2,6,4,10,3,8,Design,UI/UX Designer
+6.35,5,5,9,5,2,1,2,3,8,1,4,3,10,6,5,6,Networking,You don’t have enough skills yet. Keep learning!
+6.88,10,4,9,2,9,9,3,8,5,8,4,10,9,6,4,2,Coding,Blockchain Developer
+8.28,3,8,10,7,6,10,5,3,5,5,5,4,10,2,3,4,Management,Database Administrator
+9.1,3,10,10,1,5,7,1,5,7,7,6,10,3,5,4,9,Research,Data Analyst
+7.25,6,4,10,2,7,6,2,3,10,7,2,8,7,9,6,7,Analytics,Software Engineer
+9.71,8,10,2,9,9,9,5,10,8,6,4,9,1,9,2,2,Coding,Robotics Engineer
+8.72,10,5,7,5,5,10,5,1,9,3,4,8,5,1,4,8,Networking,UI/UX Designer
+8.09,3,9,9,7,1,6,3,5,1,9,3,10,8,1,10,2,Design,Data Analyst
+9.7,3,1,4,9,6,4,1,3,1,6,1,8,1,1,1,5,Design,You don’t have enough skills yet. Keep learning!
+8.98,6,4,2,10,6,10,2,7,8,8,8,7,3,1,1,3,Design,Project Manager
+9.25,1,10,6,9,5,8,6,10,6,2,10,10,2,6,3,8,Analytics,Cloud Engineer
+6.16,1,3,10,2,9,6,10,9,8,7,3,10,6,2,5,9,Analytics,Cloud Engineer
+8.76,6,5,9,1,10,3,10,6,6,9,5,9,8,1,5,6,Research,IoT Engineer
+8.53,1,10,10,9,1,7,6,4,1,4,3,9,2,9,5,3,Systems,Data Analyst
+8.66,5,5,7,8,10,10,6,5,2,7,4,3,5,2,2,1,Systems,Database Administrator
+8.08,8,5,10,3,4,6,1,8,5,2,2,9,8,1,2,6,Research,Blockchain Developer
+9.23,7,5,1,4,3,4,2,6,2,1,7,1,10,4,9,3,Coding,Blockchain Developer
+9.46,1,9,6,4,6,7,3,3,2,3,4,1,5,3,9,2,Analytics,You don’t have enough skills yet. Keep learning!
+9.72,10,6,7,10,10,1,6,4,2,8,8,7,3,6,9,10,Networking,Project Manager
+9.99,8,10,10,10,10,8,1,10,10,7,3,2,8,5,2,9,Design,UI/UX Designer
+8.86,9,10,10,7,6,2,4,3,2,9,10,8,10,9,8,1,Management,Robotics Engineer
+7.25,3,2,5,3,4,4,5,5,5,7,2,9,4,7,5,8,Research,You don’t have enough skills yet. Keep learning!
+7.44,8,7,9,7,9,9,5,6,4,3,8,3,9,6,9,8,Coding,Blockchain Developer
+8.92,6,8,6,8,8,3,10,5,10,2,4,5,7,7,3,10,Systems,UI/UX Designer
+6.58,4,7,3,9,8,3,9,8,5,4,2,1,7,4,9,1,Systems,You don’t have enough skills yet. Keep learning!
+7.55,1,3,6,2,3,8,3,7,10,9,10,3,4,6,3,5,Networking,You don’t have enough skills yet. Keep learning!
+6.25,2,7,7,7,5,1,8,2,10,2,2,9,8,5,5,7,Analytics,You don’t have enough skills yet. Keep learning!
+9.44,10,9,2,7,5,4,1,8,1,10,10,4,9,4,4,2,Research,Blockchain Developer
+9.92,6,5,7,8,5,3,1,10,4,2,4,5,5,1,3,9,Analytics,Software Engineer
+7.26,5,7,2,9,1,5,4,1,9,10,7,2,10,6,4,5,Coding,Project Manager
+6.17,5,5,4,1,5,5,4,6,1,1,7,1,10,4,9,10,Research,You don’t have enough skills yet. Keep learning!
+7.72,9,1,2,2,1,3,5,1,2,4,9,8,3,6,3,3,Coding,Mobile App Developer
+9.83,1,4,5,7,4,3,7,4,6,1,7,6,3,9,3,5,Networking,You don’t have enough skills yet. Keep learning!
+9.8,7,7,3,8,1,6,3,3,2,6,5,5,6,9,7,8,Networking,Robotics Engineer
+9.59,4,3,7,10,3,9,6,8,9,6,7,2,1,2,6,7,Coding,Database Administrator
+7.17,4,9,3,2,2,1,5,1,4,10,3,8,7,7,7,1,Research,You don’t have enough skills yet. Keep learning!
+9.6,7,7,10,8,6,5,8,10,8,2,7,8,4,6,7,8,Research,IoT Engineer
+8.95,10,10,6,2,5,2,3,3,6,2,7,2,10,9,3,5,Research,Robotics Engineer
+7.14,8,4,4,4,1,4,9,3,9,4,6,10,8,8,4,9,Management,UI/UX Designer
+9.8,4,3,9,4,2,2,6,9,9,10,10,5,6,1,8,9,Design,UI/UX Designer
+7.24,8,9,1,4,1,4,4,1,3,2,1,6,5,2,8,10,Networking,Software Engineer
+9.44,10,2,7,7,10,10,1,9,3,4,5,5,6,5,8,5,Networking,Network Engineer
+9.05,1,1,5,5,9,10,4,3,9,7,4,5,8,4,9,9,Networking,UI/UX Designer
+7.59,3,5,6,1,5,8,7,3,8,5,3,8,9,9,3,2,Analytics,You don’t have enough skills yet. Keep learning!
+6.77,8,1,10,6,10,1,6,4,4,6,6,5,5,5,8,6,Coding,Software Engineer
+9.33,4,2,3,1,10,2,4,9,5,4,2,8,8,6,8,3,Networking,Network Engineer
+6.13,1,5,9,3,9,1,6,8,10,4,1,9,7,1,4,4,Systems,Cloud Engineer
+8.29,7,1,8,1,8,3,10,2,10,4,7,9,6,9,5,3,Systems,Embedded Systems Engineer
+6.1,4,6,6,5,3,10,7,9,10,9,2,9,3,5,2,10,Networking,UI/UX Designer
+6.16,6,4,7,9,4,7,2,10,6,7,8,6,9,5,9,5,Design,Network Engineer
+8.71,4,5,1,4,9,1,3,7,4,3,7,1,5,5,1,6,Systems,Cybersecurity Specialist
+8.29,5,7,10,4,2,4,9,7,5,10,4,6,1,6,9,1,Management,You don’t have enough skills yet. Keep learning!
+7.21,2,3,7,10,2,2,3,1,7,8,3,3,7,6,6,8,Analytics,Project Manager
+6.84,4,6,8,1,5,2,10,1,2,8,2,7,7,2,3,7,Coding,You don’t have enough skills yet. Keep learning!
+7.6,5,6,10,9,3,2,5,5,8,4,4,7,2,9,3,5,Design,You don’t have enough skills yet. Keep learning!
+8.53,9,9,3,8,8,10,8,10,3,3,7,1,4,2,4,5,Systems,Embedded Systems Engineer
+8.13,3,6,10,1,1,10,10,8,9,1,1,6,8,9,6,10,Management,UI/UX Designer
+7.26,4,5,4,5,4,7,4,5,6,6,7,4,2,7,4,9,Systems,You don’t have enough skills yet. Keep learning!
+8.45,10,6,6,8,7,1,5,4,6,5,4,3,1,1,2,10,Design,Software Engineer
+6.06,3,5,10,10,3,10,8,10,10,7,5,6,4,5,7,8,Networking,UI/UX Designer
+7.15,1,9,2,3,6,6,4,5,4,6,8,10,2,10,5,2,Networking,You don’t have enough skills yet. Keep learning!
+8.96,2,3,3,5,4,1,5,7,5,6,1,2,8,8,10,9,Systems,You don’t have enough skills yet. Keep learning!
+9.02,8,10,8,10,3,5,6,2,2,5,4,9,10,3,1,6,Management,Blockchain Developer
+7.71,8,4,1,3,5,6,8,9,6,5,5,9,10,9,7,1,Management,Network Engineer
+6.53,10,8,9,5,7,3,1,4,5,5,1,1,2,5,1,8,Coding,Data Analyst
+7.39,3,9,6,6,9,4,9,4,4,4,7,1,1,2,3,9,Design,You don’t have enough skills yet. Keep learning!
+6.42,2,9,8,5,10,4,10,6,6,8,7,6,4,6,8,7,Networking,Data Scientist
+9.31,5,4,6,5,7,9,4,1,10,7,2,10,10,7,3,3,Research,You don’t have enough skills yet. Keep learning!
+6.39,6,10,5,9,1,9,2,8,1,8,9,1,9,4,6,8,Research,Project Manager
+8.66,6,6,10,2,7,9,8,10,5,2,9,2,7,9,6,2,Design,Database Administrator
+9.27,3,5,6,3,3,10,8,7,3,8,6,4,9,3,10,3,Design,You don’t have enough skills yet. Keep learning!
+7.87,9,10,8,5,10,9,5,10,7,2,10,9,3,9,3,3,Design,Robotics Engineer
+9.7,8,10,6,1,5,9,3,4,10,5,9,8,1,6,5,6,Systems,Embedded Systems Engineer
+9.36,7,6,7,7,9,9,6,5,3,7,3,2,10,10,2,9,Research,Robotics Engineer
+7.27,10,6,7,2,2,10,2,1,7,8,2,7,9,9,1,9,Research,Robotics Engineer
+6.74,1,9,5,7,3,3,2,9,9,6,8,9,8,3,5,2,Management,Cloud Engineer
+6.06,2,1,2,8,3,4,5,3,5,6,4,10,1,3,5,7,Analytics,You don’t have enough skills yet. Keep learning!
+6.62,1,2,2,7,7,3,3,10,10,5,9,6,5,2,2,2,Systems,You don’t have enough skills yet. Keep learning!
+7.47,10,4,10,5,8,8,1,4,5,1,8,5,7,10,8,3,Research,Robotics Engineer
+6.84,1,8,4,10,8,5,9,2,8,7,1,9,1,4,6,10,Design,You don’t have enough skills yet. Keep learning!
+7.3,8,5,7,7,1,10,10,2,3,2,9,5,6,6,8,8,Design,Database Administrator
+9.64,9,8,7,5,1,10,8,5,10,1,3,2,2,9,4,4,Systems,Embedded Systems Engineer
+8.31,8,6,4,1,8,5,7,2,2,5,10,1,8,2,7,10,Networking,Blockchain Developer
+6.14,9,3,9,4,6,1,3,8,10,7,3,2,9,5,3,10,Research,UI/UX Designer
+8.03,6,1,9,10,2,10,8,10,5,10,1,9,6,1,3,1,Networking,Project Manager
+8.22,6,6,1,2,4,8,4,5,7,7,7,9,7,6,3,2,Networking,Software Engineer
+7.27,4,7,7,2,9,10,5,4,1,5,4,9,2,3,5,10,Systems,Database Administrator
+8.68,8,3,6,1,10,2,4,1,1,10,5,7,5,2,6,3,Systems,Embedded Systems Engineer
+8.86,4,8,6,10,2,6,2,7,7,7,1,10,7,10,8,2,Coding,You don’t have enough skills yet. Keep learning!
+9.48,9,2,5,6,8,2,6,7,1,6,6,4,4,7,4,4,Management,Software Engineer
+7.38,3,7,1,3,2,1,5,9,6,10,1,4,10,2,10,2,Design,Network Engineer
+7.34,4,1,7,2,4,4,3,7,6,2,6,1,5,8,2,5,Research,You don’t have enough skills yet. Keep learning!
+6.55,4,2,3,10,1,8,1,9,7,3,3,5,3,3,1,6,Systems,You don’t have enough skills yet. Keep learning!
+6.46,2,8,8,1,10,2,2,10,7,5,8,5,3,4,3,2,Coding,Cybersecurity Specialist
+6.98,4,9,10,1,9,1,2,1,4,5,8,9,5,9,6,2,Research,Data Analyst
+6.05,9,6,6,2,9,6,7,7,6,7,7,1,6,2,7,2,Systems,Embedded Systems Engineer
+8.27,10,3,2,6,2,2,2,7,7,4,10,6,2,8,9,8,Systems,Embedded Systems Engineer
+7.39,7,6,2,2,6,4,9,1,3,9,4,8,2,7,8,8,Management,Software Engineer
+9.08,10,2,4,3,2,8,7,2,10,1,7,3,5,8,10,2,Analytics,Robotics Engineer
+9.81,4,10,1,10,9,9,4,5,7,7,9,9,10,6,5,5,Networking,You don’t have enough skills yet. Keep learning!
+6.39,2,2,10,5,2,4,1,8,7,6,2,5,8,6,1,10,Coding,You don’t have enough skills yet. Keep learning!
+7.37,8,10,3,9,6,4,9,9,1,8,6,7,2,9,8,4,Research,IoT Engineer
+6.39,1,3,6,3,7,8,10,10,7,7,8,4,7,5,9,10,Networking,Network Engineer
+6.55,8,4,3,5,2,6,8,7,3,9,2,10,2,3,1,2,Systems,Embedded Systems Engineer
+6.86,3,8,9,2,3,6,8,7,6,1,4,5,2,5,1,2,Analytics,Data Scientist
+7.15,7,6,3,8,6,3,9,10,9,5,8,10,2,5,6,4,Management,Cloud Engineer
+7.53,4,7,8,5,4,3,1,1,3,1,4,1,3,6,4,6,Analytics,You don’t have enough skills yet. Keep learning!
+8.99,10,7,1,7,8,9,10,9,2,6,3,8,10,2,5,10,Design,Blockchain Developer
+6.81,4,2,9,9,6,8,2,7,10,9,5,9,10,6,4,6,Analytics,Project Manager
+7.14,3,3,10,4,3,2,8,2,5,9,7,7,8,5,5,8,Coding,You don’t have enough skills yet. Keep learning!
+8.75,9,6,8,4,6,7,1,7,3,3,6,9,4,4,4,9,Research,Web Developer
+9.1,1,1,8,9,8,10,5,2,2,3,10,7,2,4,6,1,Research,Database Administrator
+9.05,4,3,1,2,9,3,3,6,4,8,6,9,2,2,9,8,Analytics,You don’t have enough skills yet. Keep learning!
+7.35,10,6,2,1,1,4,6,1,4,10,4,2,10,2,9,6,Research,Blockchain Developer
+7.28,3,10,9,10,2,7,1,4,8,8,1,6,3,3,5,5,Research,Project Manager
+7.74,5,1,4,9,4,3,4,4,7,10,8,3,4,9,6,4,Networking,Project Manager
+9.68,3,3,5,4,10,8,3,1,5,9,9,4,4,8,2,6,Networking,You don’t have enough skills yet. Keep learning!
+6.07,10,9,3,2,2,10,7,1,3,10,10,4,9,9,6,2,Management,Robotics Engineer
+8.03,10,5,9,4,8,1,3,6,9,5,2,3,2,7,5,2,Design,Game Developer
+8.44,1,9,3,5,10,1,4,9,2,10,2,9,10,7,5,9,Systems,Cloud Engineer
+8.86,10,8,5,1,2,2,5,10,8,10,2,8,8,1,3,4,Systems,Embedded Systems Engineer
+6.84,9,3,6,8,9,4,5,2,4,9,7,5,2,6,10,4,Research,Mobile App Developer
+7.59,8,1,1,9,7,7,3,3,7,2,5,7,9,7,9,4,Design,Blockchain Developer
+6.68,8,1,3,5,4,8,8,7,9,3,6,6,9,7,9,2,Research,IoT Engineer
+7.74,9,5,7,8,4,8,1,5,10,6,8,3,2,9,5,6,Systems,Embedded Systems Engineer
+7.83,2,6,6,4,5,2,2,9,9,8,3,8,4,8,1,10,Analytics,UI/UX Designer
+9.63,6,7,4,10,3,3,3,8,8,4,6,9,10,5,3,4,Management,Cloud Engineer
+7.74,4,6,1,6,4,9,10,4,10,7,2,2,3,3,6,7,Design,You don’t have enough skills yet. Keep learning!
+8.64,7,8,1,1,3,6,5,5,6,9,3,7,10,2,4,10,Management,Blockchain Developer
+7.84,10,8,2,7,9,9,7,4,4,7,5,6,7,10,3,3,Systems,Embedded Systems Engineer
+7.89,10,1,6,10,3,2,5,8,9,7,2,9,5,8,2,3,Management,Robotics Engineer
+6.23,9,9,9,9,2,10,10,8,9,2,3,8,8,3,4,4,Systems,Embedded Systems Engineer
+6.43,4,6,6,8,5,5,7,10,7,9,9,5,6,9,4,4,Coding,You don’t have enough skills yet. Keep learning!
+8.38,5,4,9,4,1,3,3,6,9,9,7,6,3,4,6,9,Management,UI/UX Designer
+7.58,1,3,3,7,5,1,4,5,7,9,10,2,4,1,2,2,Analytics,You don’t have enough skills yet. Keep learning!
+9.56,7,7,5,5,9,10,1,9,10,6,4,3,9,5,9,10,Analytics,UI/UX Designer
+8.71,1,8,10,10,1,8,4,2,6,4,9,7,9,3,5,6,Research,Data Analyst
+8.15,2,3,3,2,5,9,7,6,3,1,9,5,2,3,5,5,Analytics,You don’t have enough skills yet. Keep learning!
+9.36,2,7,8,9,3,1,6,8,7,6,1,8,3,6,6,4,Networking,Cloud Engineer
+8.78,9,7,6,6,4,8,4,3,4,3,10,10,1,9,3,4,Management,Robotics Engineer
+7.25,7,5,6,1,2,2,1,10,2,6,4,3,7,6,2,4,Systems,Embedded Systems Engineer
+7.48,10,7,7,10,3,5,1,10,4,5,4,4,4,4,3,3,Systems,Embedded Systems Engineer
+8.97,9,1,6,8,8,6,9,4,3,8,6,8,5,5,4,4,Systems,Embedded Systems Engineer
+9.85,4,6,3,8,3,5,3,2,5,3,1,1,8,1,9,10,Research,You don’t have enough skills yet. Keep learning!
+9.92,3,1,2,9,9,2,7,9,5,6,7,10,8,7,1,7,Systems,Cloud Engineer
+9.12,7,6,5,7,6,4,4,4,7,10,9,2,7,4,8,2,Networking,Software Engineer
+7.7,5,9,5,2,8,9,9,1,10,3,3,2,2,8,8,7,Management,You don’t have enough skills yet. Keep learning!
+8.71,8,3,10,10,4,1,7,6,7,1,8,7,9,2,4,8,Coding,Blockchain Developer
+9.09,5,1,2,1,10,8,8,2,3,1,4,1,1,1,1,10,Analytics,You don’t have enough skills yet. Keep learning!
+8.05,10,3,7,4,9,4,1,6,1,10,7,6,2,2,5,5,Design,Mobile App Developer
+6.51,3,4,6,2,10,10,7,6,4,3,9,4,5,1,9,7,Design,You don’t have enough skills yet. Keep learning!
+8.33,9,9,7,3,3,2,5,1,4,9,7,9,6,9,9,2,Analytics,Robotics Engineer
+9.67,4,8,1,3,7,9,4,2,9,5,8,10,5,2,2,9,Analytics,UI/UX Designer
+9.53,1,4,3,10,4,8,4,10,7,3,2,6,9,5,1,4,Systems,You don’t have enough skills yet. Keep learning!
+9.45,5,4,4,6,4,2,10,1,3,2,10,4,4,1,10,10,Design,You don’t have enough skills yet. Keep learning!
+7.95,5,1,5,2,9,10,2,5,4,3,2,9,9,7,3,10,Research,You don’t have enough skills yet. Keep learning!
+9.35,9,2,1,6,5,10,4,4,2,5,6,5,2,8,6,5,Networking,Robotics Engineer
+7.26,7,2,1,10,2,1,10,7,9,9,9,10,8,3,10,3,Systems,Embedded Systems Engineer
+8.58,3,8,6,4,6,8,8,1,2,9,5,5,4,2,3,2,Networking,You don’t have enough skills yet. Keep learning!
+8.95,4,1,10,6,1,8,10,6,7,8,5,5,10,10,2,3,Analytics,You don’t have enough skills yet. Keep learning!
+9.46,5,10,5,5,9,5,1,8,3,4,6,10,2,3,6,4,Networking,Cloud Engineer
+7.25,10,1,6,6,2,1,5,5,5,5,10,10,6,8,5,1,Coding,Robotics Engineer
+8.45,1,7,4,6,9,10,6,6,3,3,7,5,3,2,10,9,Design,You don’t have enough skills yet. Keep learning!
+9.9,10,8,6,5,6,1,1,7,1,1,10,1,8,4,9,5,Research,Blockchain Developer
+9.31,10,9,7,5,8,5,3,9,6,8,2,8,9,1,5,7,Analytics,Blockchain Developer
+7.47,7,6,6,1,9,8,9,7,8,4,5,2,5,7,3,10,Systems,Embedded Systems Engineer
+8.55,2,3,7,6,4,9,10,3,2,7,9,1,2,10,9,1,Design,Database Administrator
+7.26,9,3,8,6,6,7,10,6,2,1,3,2,10,5,2,6,Networking,Blockchain Developer
+6.85,4,5,6,5,4,3,5,4,4,2,2,8,5,2,3,5,Design,You don’t have enough skills yet. Keep learning!
+9.28,10,1,1,3,5,7,9,5,5,10,6,4,7,1,6,6,Analytics,AI/ML Engineer
+6.01,4,3,10,1,6,3,10,7,3,3,4,5,9,1,2,2,Systems,You don’t have enough skills yet. Keep learning!
+9.04,9,3,4,9,8,7,8,2,2,2,8,5,7,2,7,1,Management,Mobile App Developer
+7.6,5,1,3,1,3,3,1,7,3,9,8,8,8,5,8,1,Systems,You don’t have enough skills yet. Keep learning!
+8.73,8,9,3,5,8,4,7,5,7,2,8,3,3,5,9,3,Networking,Mobile App Developer
+7.36,10,4,6,6,5,9,1,10,9,7,6,2,5,6,5,8,Management,UI/UX Designer
+6.92,2,9,7,1,4,10,7,1,3,9,10,3,1,2,5,5,Design,Database Administrator
+9.09,3,4,2,5,2,3,9,5,2,4,8,3,4,1,6,6,Design,You don’t have enough skills yet. Keep learning!
+7.08,2,10,2,2,7,10,5,10,9,1,7,1,8,7,8,7,Design,Network Engineer
+7.84,4,2,4,4,1,5,3,5,5,5,5,8,6,8,2,10,Management,You don’t have enough skills yet. Keep learning!
+9.09,1,1,3,7,10,2,5,1,6,9,2,2,7,9,6,5,Design,You don’t have enough skills yet. Keep learning!
+9.35,9,5,4,1,5,7,7,10,9,10,6,7,10,2,6,8,Design,UI/UX Designer
+6.14,8,10,10,8,7,7,1,1,8,10,6,7,10,4,1,9,Design,Blockchain Developer
+6.69,9,9,10,7,6,10,5,7,3,9,2,10,1,6,1,7,Design,Database Administrator
+9.97,4,5,5,8,1,9,9,10,5,2,4,5,1,8,5,10,Research,IoT Engineer
+7.21,2,7,10,8,2,4,5,2,9,5,10,3,4,2,2,8,Analytics,UI/UX Designer
+8.49,10,10,2,4,3,7,5,9,6,10,4,7,9,2,2,3,Analytics,Blockchain Developer
+6.44,1,10,10,6,6,7,8,7,6,4,7,2,9,1,6,10,Networking,Data Scientist
+9.19,7,1,9,10,2,9,5,10,6,1,7,4,10,3,7,8,Management,Network Engineer
+8.79,7,1,7,8,5,3,4,1,4,5,7,10,6,9,6,3,Coding,Robotics Engineer
+9.98,7,7,4,5,1,2,8,10,4,2,6,3,2,10,9,3,Design,Network Engineer
+8.64,5,3,9,1,9,5,5,10,7,1,3,6,2,10,5,4,Research,Cybersecurity Specialist
+8.94,5,7,8,4,10,6,3,5,3,1,3,1,5,2,10,2,Analytics,You don’t have enough skills yet. Keep learning!
+9.96,2,8,8,7,10,8,6,7,1,6,5,7,10,3,4,1,Analytics,Cybersecurity Specialist
+7.23,2,1,7,7,7,8,6,10,10,7,3,10,2,8,8,4,Analytics,Network Engineer
+7.44,10,1,5,1,8,10,8,7,8,1,7,4,9,5,10,8,Systems,Embedded Systems Engineer
+9.82,6,8,3,6,2,7,5,5,9,10,8,5,5,3,6,9,Research,UI/UX Designer
+8.28,2,2,1,5,5,1,2,6,8,8,5,3,2,9,6,1,Systems,You don’t have enough skills yet. Keep learning!
+9.16,4,4,2,2,7,1,6,4,8,2,8,10,9,9,2,6,Coding,You don’t have enough skills yet. Keep learning!
+6.93,1,3,6,5,2,8,10,6,2,9,6,2,4,6,4,8,Networking,You don’t have enough skills yet. Keep learning!
+6.79,5,1,3,2,4,7,4,2,9,8,7,8,3,5,6,1,Coding,You don’t have enough skills yet. Keep learning!
+8.15,9,10,4,5,10,6,1,9,5,2,8,3,8,7,10,5,Design,Network Engineer
+9.08,3,1,6,5,9,6,3,8,5,6,1,10,9,7,7,6,Research,Cloud Engineer
+9.88,4,6,9,8,10,8,9,9,6,1,3,9,2,7,8,8,Systems,Network Engineer
+9.27,7,3,7,8,5,8,10,3,8,5,6,6,2,7,6,7,Analytics,Software Engineer
+7.15,2,5,8,7,6,8,8,7,10,8,7,7,9,1,2,7,Design,You don’t have enough skills yet. Keep learning!
+6.86,9,8,1,9,3,4,2,9,10,5,2,8,7,2,7,10,Analytics,UI/UX Designer
+6.35,5,9,2,1,8,7,6,3,2,7,6,6,2,6,3,4,Design,You don’t have enough skills yet. Keep learning!
+8.58,5,7,1,5,6,7,4,4,7,8,10,5,5,8,10,10,Design,You don’t have enough skills yet. Keep learning!
+7.49,8,2,4,4,2,3,4,1,4,9,9,2,6,3,4,10,Coding,Mobile App Developer
+7.61,3,9,9,4,4,1,9,9,10,8,5,5,5,1,9,7,Research,IoT Engineer
+7.83,2,5,4,6,6,6,9,2,10,5,5,1,9,10,1,6,Analytics,You don’t have enough skills yet. Keep learning!
+7.52,3,6,9,7,1,2,6,6,9,3,5,4,4,5,2,3,Research,You don’t have enough skills yet. Keep learning!
+9.19,10,3,2,8,3,1,6,9,7,9,7,1,8,4,7,4,Research,Network Engineer
+6.73,4,7,3,10,5,1,8,7,4,10,9,5,4,6,9,7,Systems,Project Manager
+9.76,10,5,6,7,7,10,8,8,10,1,3,9,6,5,4,1,Research,IoT Engineer
+7.99,9,2,6,9,8,5,3,9,6,2,5,10,5,8,8,9,Research,Network Engineer
+8.79,4,9,8,6,5,6,2,9,3,6,6,3,1,2,1,6,Systems,Data Analyst
+9.45,5,1,9,8,8,4,4,5,6,9,5,7,7,4,9,1,Coding,You don’t have enough skills yet. Keep learning!
+6.18,7,7,9,10,3,9,1,8,2,7,4,4,1,8,7,4,Research,Robotics Engineer
+7.37,3,7,1,8,7,1,10,9,9,6,1,4,5,7,2,6,Systems,You don’t have enough skills yet. Keep learning!
+8.6,8,6,9,4,6,2,1,6,6,9,10,3,6,6,10,7,Research,Mobile App Developer
+6.6,7,4,1,6,5,8,8,3,2,6,8,3,10,3,3,5,Coding,Blockchain Developer
+8.16,10,6,10,9,2,3,3,8,3,1,2,4,7,10,1,8,Analytics,Robotics Engineer
+6.79,5,9,2,6,2,1,10,4,3,4,1,8,8,9,4,8,Networking,You don’t have enough skills yet. Keep learning!
+7.01,6,3,8,4,7,2,4,8,5,8,7,4,1,9,3,3,Systems,Software Engineer
+8.34,10,6,7,3,4,10,8,5,9,3,4,3,8,1,10,7,Systems,Embedded Systems Engineer
+8.5,10,4,7,4,10,4,7,10,3,9,3,7,8,6,7,6,Design,Network Engineer
+7.03,3,10,9,5,6,7,7,7,2,8,8,2,3,4,4,8,Systems,Data Scientist
+6.9,6,7,1,9,7,7,7,7,8,1,6,1,4,10,9,4,Coding,Software Engineer
+8.05,4,1,3,1,10,1,2,5,8,5,4,1,9,1,10,3,Systems,You don’t have enough skills yet. Keep learning!
+8.53,6,2,9,4,9,4,2,3,6,1,5,7,7,6,10,3,Systems,Software Engineer
+6.08,5,3,7,8,8,10,6,3,4,6,5,10,1,3,9,10,Analytics,Database Administrator
+6.59,3,6,5,1,9,7,7,5,6,7,7,8,3,1,4,2,Networking,You don’t have enough skills yet. Keep learning!
+7.91,6,7,2,8,2,8,7,6,9,3,5,9,5,10,3,5,Coding,Software Engineer
+6.6,1,10,10,6,2,5,8,5,7,6,2,2,2,6,4,9,Coding,Data Scientist
+6.07,7,3,4,7,4,2,1,5,1,6,9,1,5,1,8,10,Analytics,Software Engineer
+6.33,5,7,3,6,8,2,5,9,8,1,9,7,9,9,10,4,Analytics,Network Engineer
+9.79,8,4,9,8,10,9,7,2,6,3,2,8,5,9,6,2,Management,Robotics Engineer
+6.78,6,9,4,3,7,6,3,8,5,3,4,5,9,10,5,9,Coding,Software Engineer
+7.47,4,6,1,7,8,3,2,7,6,2,8,10,7,10,4,2,Networking,You don’t have enough skills yet. Keep learning!
+7.41,2,9,1,2,3,3,2,7,6,5,3,9,4,7,4,8,Networking,You don’t have enough skills yet. Keep learning!
+8.37,5,8,5,9,9,9,9,8,4,9,7,4,10,5,5,1,Networking,Project Manager
+7.97,3,3,9,1,1,9,4,7,4,10,7,4,5,2,10,6,Management,Database Administrator
+7.07,1,1,3,4,1,7,4,5,8,1,4,8,3,7,8,2,Research,You don’t have enough skills yet. Keep learning!
+6.68,2,5,10,4,6,10,2,10,9,2,2,3,3,2,5,5,Research,Database Administrator
+9.24,3,2,3,6,4,1,3,9,6,2,7,8,8,3,3,8,Design,Cloud Engineer
+8.57,1,9,2,5,9,7,6,7,5,8,3,6,5,2,4,10,Design,Cybersecurity Specialist
+8.01,2,8,7,4,3,8,8,9,10,3,2,4,1,1,7,6,Networking,Network Engineer
+7.0,2,7,9,8,8,2,4,3,7,4,9,6,1,10,7,6,Research,You don’t have enough skills yet. Keep learning!
+6.99,9,2,8,5,10,1,1,9,4,8,3,6,8,5,8,1,Networking,Network Engineer
+9.48,2,9,9,1,2,8,1,3,4,5,2,1,5,9,9,9,Systems,Data Analyst
+9.1,1,10,9,9,5,8,3,1,9,4,9,5,10,10,5,10,Research,UI/UX Designer
+7.43,9,5,6,9,9,10,6,10,4,7,2,3,6,5,1,1,Design,Cybersecurity Specialist
+7.02,3,3,10,5,8,5,4,1,10,7,10,6,2,8,1,7,Coding,You don’t have enough skills yet. Keep learning!
+8.36,10,7,10,1,2,5,6,5,7,4,6,4,9,1,2,10,Design,Blockchain Developer
+7.79,5,1,2,2,10,6,7,3,4,10,10,7,8,9,4,10,Networking,You don’t have enough skills yet. Keep learning!
+8.39,4,7,9,7,4,5,4,7,10,5,4,5,6,3,8,8,Analytics,UI/UX Designer
+8.58,10,10,9,1,9,7,10,8,2,10,9,2,4,10,10,3,Systems,Embedded Systems Engineer
+6.49,9,2,8,2,3,7,5,5,4,10,5,10,9,2,6,3,Networking,Blockchain Developer
+7.75,6,6,10,6,10,7,8,2,3,2,7,7,7,9,10,10,Systems,Software Engineer
+7.86,2,1,8,6,7,4,4,4,1,9,3,9,2,10,9,1,Management,You don’t have enough skills yet. Keep learning!
+6.61,3,9,7,8,5,7,4,8,7,7,6,8,2,5,10,7,Systems,Cloud Engineer
+9.54,5,2,1,9,10,10,6,7,4,6,2,3,3,1,10,7,Networking,Cybersecurity Specialist
+9.35,9,8,6,4,8,9,4,9,9,6,4,9,4,6,6,3,Networking,Game Developer
+7.67,3,7,9,7,4,4,9,5,8,8,6,5,1,8,4,1,Management,You don’t have enough skills yet. Keep learning!
+6.18,10,8,5,9,9,6,3,5,9,2,9,8,2,6,2,8,Research,UI/UX Designer
+7.8,7,5,5,10,5,3,7,5,6,9,9,4,9,4,10,9,Coding,Project Manager
+6.63,4,9,3,2,1,8,4,5,5,8,8,1,3,1,4,7,Research,You don’t have enough skills yet. Keep learning!
+8.12,1,9,8,10,5,9,2,9,3,6,1,6,7,5,3,2,Management,Database Administrator
+6.47,1,4,4,5,5,7,6,6,7,7,10,4,1,9,10,1,Coding,You don’t have enough skills yet. Keep learning!
+7.51,8,6,8,8,8,4,2,8,2,5,1,1,9,8,10,3,Systems,Embedded Systems Engineer
+6.89,2,5,9,9,3,3,6,10,4,2,6,8,6,8,6,10,Analytics,Cloud Engineer
+6.77,4,2,4,5,1,8,5,4,6,2,1,7,3,3,1,8,Systems,You don’t have enough skills yet. Keep learning!
+7.59,10,8,10,9,6,1,7,1,5,4,4,2,7,5,6,3,Coding,Data Scientist
+8.16,5,2,9,3,8,7,6,2,3,7,7,8,7,9,7,9,Research,You don’t have enough skills yet. Keep learning!
+8.52,1,6,10,9,8,9,10,8,5,2,7,5,8,2,10,7,Systems,Database Administrator
+6.55,4,5,4,2,4,6,7,2,2,8,10,2,10,3,7,4,Coding,You don’t have enough skills yet. Keep learning!
+6.12,1,6,7,10,6,6,10,7,2,3,9,7,9,5,9,7,Design,You don’t have enough skills yet. Keep learning!
+7.64,3,6,9,3,7,2,3,9,6,5,6,9,2,2,2,3,Systems,Cloud Engineer
+8.29,10,7,1,2,4,4,2,6,9,10,6,9,5,5,2,9,Management,UI/UX Designer
+9.16,2,5,9,6,6,3,6,1,3,3,7,8,1,5,2,8,Design,You don’t have enough skills yet. Keep learning!
+7.8,2,3,2,3,6,7,7,2,4,10,6,4,10,7,9,7,Management,You don’t have enough skills yet. Keep learning!
+8.24,9,5,8,7,8,2,3,5,7,7,3,9,2,5,1,7,Research,Software Engineer
+8.13,6,2,6,4,7,6,7,7,9,10,9,8,7,8,4,3,Analytics,Software Engineer
+8.95,9,7,6,8,6,8,9,9,10,4,5,9,4,9,2,6,Coding,Robotics Engineer
+6.65,10,7,9,4,9,9,5,2,9,1,7,3,8,9,7,5,Management,Robotics Engineer
+8.31,6,2,1,10,5,8,3,6,6,2,3,7,6,1,6,1,Analytics,Software Engineer
+9.3,6,7,3,5,1,10,6,6,8,4,4,8,4,2,8,8,Networking,Software Engineer
+6.93,4,9,4,8,9,3,1,9,10,8,9,1,4,9,5,1,Design,Cybersecurity Specialist
+9.28,8,3,2,1,3,10,7,4,2,8,8,7,1,9,3,8,Systems,Embedded Systems Engineer
+9.09,4,3,4,5,7,7,8,6,9,3,4,1,10,2,9,4,Design,You don’t have enough skills yet. Keep learning!
+7.14,7,8,10,4,8,6,7,6,8,1,6,6,3,6,5,6,Analytics,Data Scientist
+6.72,2,1,3,9,1,2,6,2,8,10,6,5,8,2,2,10,Design,Project Manager
+8.66,2,10,7,10,5,10,8,3,8,10,3,4,2,8,8,9,Research,IoT Engineer
+8.35,4,9,1,7,1,5,3,2,2,3,8,4,7,2,5,3,Networking,You don’t have enough skills yet. Keep learning!
+8.27,5,6,3,4,6,10,4,8,5,1,2,9,2,3,2,5,Coding,Cloud Engineer
+9.87,8,4,7,7,3,9,9,1,1,3,2,2,2,2,3,7,Systems,Embedded Systems Engineer
+6.44,8,6,6,9,10,5,5,9,1,4,7,4,10,9,1,9,Coding,Robotics Engineer
+7.97,5,6,8,9,2,8,5,6,2,7,10,7,8,8,2,1,Networking,You don’t have enough skills yet. Keep learning!
+6.27,1,8,1,4,2,6,1,1,9,2,6,8,3,5,4,9,Networking,UI/UX Designer
+9.82,5,2,2,1,3,4,9,9,4,2,6,6,2,7,1,6,Management,You don’t have enough skills yet. Keep learning!
+9.24,8,4,1,5,9,7,8,6,5,9,9,6,2,2,2,3,Management,Mobile App Developer
+7.52,7,2,5,8,2,2,3,6,5,5,5,5,9,5,4,2,Coding,Blockchain Developer
+9.92,2,8,2,6,7,7,6,9,4,3,7,5,2,8,3,10,Systems,You don’t have enough skills yet. Keep learning!
+7.39,7,5,5,5,10,6,7,10,10,6,8,4,1,1,1,6,Networking,Cybersecurity Specialist
+8.65,4,5,1,5,9,1,8,7,3,1,9,1,4,1,5,6,Research,IoT Engineer
+7.32,2,4,5,3,9,5,6,5,4,7,3,9,6,3,4,3,Networking,You don’t have enough skills yet. Keep learning!
+7.78,1,6,7,7,8,5,4,7,4,6,4,1,4,7,5,7,Networking,You don’t have enough skills yet. Keep learning!
+8.97,1,9,10,8,8,6,4,4,2,3,5,5,1,8,10,5,Analytics,Data Analyst
+7.4,3,4,7,1,8,6,5,3,1,6,6,5,8,8,5,9,Research,You don’t have enough skills yet. Keep learning!
+7.9,2,6,9,1,4,10,2,1,7,2,6,6,6,1,9,5,Management,Database Administrator
+8.32,8,7,2,1,7,1,4,4,2,10,5,6,10,10,8,4,Design,Robotics Engineer
+8.39,10,4,8,2,7,1,8,10,10,6,2,4,3,3,2,2,Coding,Game Developer
+8.92,7,6,5,5,10,2,8,4,1,7,1,4,10,7,2,8,Systems,Embedded Systems Engineer
+9.03,7,9,10,7,8,2,10,3,9,2,8,4,1,8,6,8,Research,IoT Engineer
+9.83,8,6,2,4,1,5,2,10,1,6,9,10,9,7,4,4,Research,Blockchain Developer
+7.19,2,6,10,6,9,10,3,8,4,10,8,8,6,10,9,10,Management,Database Administrator
+6.88,10,4,4,5,5,1,6,3,5,6,5,9,9,2,2,2,Coding,Blockchain Developer
+8.53,4,2,1,1,1,5,3,5,3,2,3,4,4,3,1,9,Design,You don’t have enough skills yet. Keep learning!
+7.64,7,7,1,1,2,6,7,5,7,1,2,10,5,1,3,7,Coding,Software Engineer
+7.75,1,4,8,8,8,7,7,5,3,1,1,10,8,2,1,10,Networking,You don’t have enough skills yet. Keep learning!
+8.2,8,2,3,1,2,6,1,2,2,3,6,8,2,4,10,5,Systems,Embedded Systems Engineer
+7.62,5,2,5,6,5,1,6,5,9,3,7,3,6,10,7,5,Networking,You don’t have enough skills yet. Keep learning!
+6.41,8,7,9,6,3,8,1,5,9,5,10,7,4,6,10,5,Management,Mobile App Developer
+7.19,6,2,5,9,9,9,2,2,5,7,4,10,1,5,4,6,Networking,Software Engineer
+6.46,2,5,1,5,3,10,10,1,9,6,6,7,6,7,3,5,Networking,You don’t have enough skills yet. Keep learning!
+7.55,10,3,1,7,1,3,10,10,7,3,2,1,5,9,2,7,Management,Robotics Engineer
+6.64,5,3,4,6,1,4,10,7,8,8,3,4,9,5,8,8,Management,You don’t have enough skills yet. Keep learning!
+7.54,10,7,9,2,9,9,9,7,8,10,4,8,1,10,7,8,Research,IoT Engineer
+9.13,10,7,7,8,3,2,6,9,3,8,3,1,1,9,1,4,Design,Robotics Engineer
+9.12,8,3,5,8,3,4,5,10,4,6,9,1,1,8,5,6,Design,Robotics Engineer
+7.04,5,1,6,9,4,8,8,3,1,1,3,6,1,9,10,6,Coding,You don’t have enough skills yet. Keep learning!
+9.6,3,8,6,2,7,8,4,8,4,8,7,10,1,8,3,3,Coding,Cloud Engineer
+8.55,7,1,9,4,8,1,2,8,6,3,3,8,2,7,7,9,Coding,Cloud Engineer
+8.32,9,3,3,4,2,1,4,10,4,1,3,10,7,5,4,7,Coding,Cloud Engineer
+9.55,3,10,8,9,9,8,6,8,5,3,5,7,2,7,9,3,Design,Cloud Engineer
+7.77,6,8,1,1,4,3,9,4,5,5,1,10,6,7,7,2,Networking,Software Engineer
+7.6,3,7,1,9,8,3,2,8,2,7,9,7,5,7,4,7,Management,Cloud Engineer
+9.06,4,7,5,6,9,9,8,4,3,6,7,7,8,7,4,6,Research,IoT Engineer
+7.92,4,5,2,1,10,2,9,2,9,1,8,5,9,8,9,7,Research,IoT Engineer
+7.3,7,10,6,2,9,7,4,10,10,6,7,1,5,6,5,9,Management,UI/UX Designer
+6.66,1,5,4,8,4,3,1,9,9,8,7,2,4,3,3,5,Systems,You don’t have enough skills yet. Keep learning!
+6.69,10,10,10,1,8,1,9,3,3,9,9,6,7,10,8,5,Networking,Robotics Engineer
+8.68,1,1,6,2,3,10,9,5,9,6,3,8,5,8,5,3,Coding,You don’t have enough skills yet. Keep learning!
+8.88,1,1,7,1,5,10,9,2,2,10,9,1,7,4,9,10,Management,Database Administrator
+6.5,7,10,1,7,10,3,2,5,5,2,7,6,1,7,6,2,Design,Software Engineer
+7.13,6,6,2,1,1,4,1,10,4,7,7,4,1,9,10,4,Coding,Network Engineer
+6.11,3,2,3,10,2,2,9,1,5,4,6,10,5,2,1,10,Systems,You don’t have enough skills yet. Keep learning!
+7.12,8,4,8,9,3,7,5,1,6,9,2,2,5,2,10,2,Analytics,Project Manager
+6.74,8,7,1,6,7,10,1,3,4,2,6,8,10,6,1,8,Coding,Blockchain Developer
+9.08,9,7,9,1,8,3,3,2,7,6,1,8,9,7,5,6,Design,Blockchain Developer
+9.08,1,3,8,6,8,1,7,8,2,10,10,8,3,1,1,4,Coding,Cloud Engineer
+8.95,3,9,3,4,10,4,6,8,6,8,2,1,7,6,9,2,Research,Cybersecurity Specialist
+9.12,6,9,9,4,7,10,10,3,4,10,10,2,4,2,2,10,Design,Database Administrator
+7.29,7,8,10,6,9,6,2,2,3,6,7,9,3,10,2,6,Management,Robotics Engineer
+6.81,8,5,2,5,9,1,6,3,8,10,3,5,4,5,10,8,Coding,Software Engineer
+9.41,3,1,8,7,1,9,5,10,8,5,4,4,3,7,2,10,Networking,Database Administrator
+9.57,4,7,7,2,7,8,2,3,7,4,6,4,5,10,7,9,Systems,You don’t have enough skills yet. Keep learning!
+8.85,1,2,7,10,4,1,7,1,1,6,1,5,4,8,2,2,Analytics,You don’t have enough skills yet. Keep learning!
+7.86,2,5,10,10,10,8,5,3,7,5,6,4,2,4,1,8,Management,You don’t have enough skills yet. Keep learning!
+6.27,7,6,6,1,6,3,5,4,7,8,5,9,5,1,4,7,Systems,Embedded Systems Engineer
+9.37,5,10,2,1,2,5,2,10,1,8,6,3,2,2,10,10,Systems,Network Engineer
+9.12,10,7,9,7,3,8,9,10,2,5,1,4,4,3,2,5,Analytics,AI/ML Engineer
+7.44,3,10,9,8,3,5,9,4,1,9,1,10,1,1,8,1,Networking,Data Scientist
+7.71,7,1,4,2,9,10,5,10,7,8,4,2,8,7,6,7,Systems,Embedded Systems Engineer
+8.97,1,10,3,8,9,10,7,3,6,6,8,6,10,1,6,4,Analytics,You don’t have enough skills yet. Keep learning!
+9.81,8,4,7,9,7,4,9,10,3,6,8,5,5,3,6,3,Coding,AI/ML Engineer
+6.59,4,2,5,3,8,8,3,1,3,2,5,8,1,9,1,1,Design,You don’t have enough skills yet. Keep learning!
+8.02,1,5,10,1,1,2,10,7,9,7,4,8,8,4,10,8,Design,UI/UX Designer
+9.58,6,10,2,1,8,6,2,5,5,3,6,8,5,7,1,2,Analytics,Software Engineer
+8.01,10,10,7,4,2,5,2,8,6,4,6,8,7,1,1,2,Systems,Embedded Systems Engineer
+7.38,7,3,1,3,8,6,10,9,3,7,8,10,10,3,2,8,Design,Blockchain Developer
+9.01,6,7,4,9,8,6,4,9,7,3,6,5,1,10,6,3,Coding,Software Engineer
+7.73,5,8,1,3,6,9,5,1,6,6,6,4,4,9,6,5,Networking,You don’t have enough skills yet. Keep learning!
+9.47,2,6,6,1,6,3,1,4,5,10,7,9,4,10,4,8,Analytics,You don’t have enough skills yet. Keep learning!
+6.1,6,2,10,2,6,4,4,10,2,9,3,8,5,8,8,10,Networking,Network Engineer
+9.35,9,10,10,10,6,1,8,4,6,4,7,2,1,9,10,8,Management,Robotics Engineer
+8.4,4,4,5,4,9,3,1,2,8,2,8,4,7,5,10,4,Research,You don’t have enough skills yet. Keep learning!
+7.74,8,1,5,5,9,6,5,5,5,8,6,9,3,4,6,2,Management,Software Engineer
+9.39,3,8,6,4,4,8,7,4,10,2,5,2,7,1,5,6,Analytics,You don’t have enough skills yet. Keep learning!
+7.48,3,5,4,3,2,9,10,8,4,2,1,9,8,1,7,8,Design,Cloud Engineer
+8.53,10,2,6,8,4,2,6,1,2,9,9,5,1,8,9,9,Networking,Robotics Engineer
+6.92,10,6,7,2,1,10,1,10,10,1,10,6,6,2,8,10,Management,UI/UX Designer
+9.1,1,3,3,6,8,5,4,4,2,8,5,2,8,1,2,8,Coding,You don’t have enough skills yet. Keep learning!
+7.73,8,10,3,6,5,10,8,6,10,1,4,3,3,5,3,5,Networking,Web Developer
+6.98,3,2,5,1,3,6,8,4,3,8,9,6,3,6,10,3,Networking,You don’t have enough skills yet. Keep learning!
+8.89,5,5,4,1,9,6,1,6,4,4,9,1,3,6,3,7,Research,You don’t have enough skills yet. Keep learning!
+6.82,8,10,10,10,6,8,9,6,3,6,10,1,6,3,8,4,Analytics,AI/ML Engineer
+6.43,2,2,10,7,4,3,10,9,2,1,1,5,7,4,8,7,Coding,Network Engineer
+6.08,1,7,10,1,10,7,10,9,1,10,10,9,3,1,6,5,Research,IoT Engineer
+6.67,5,8,8,5,10,6,10,5,9,4,7,8,3,5,5,2,Coding,Data Scientist
+7.85,10,8,1,3,7,8,1,5,1,5,4,2,10,4,3,3,Coding,Blockchain Developer
+9.95,2,3,8,9,3,4,8,1,4,9,4,6,2,1,10,10,Coding,Project Manager
+7.39,7,5,9,9,5,10,3,3,10,2,5,8,5,8,9,9,Management,UI/UX Designer
+7.65,6,5,5,7,3,10,9,10,2,7,2,8,7,9,9,6,Analytics,Network Engineer
+6.06,2,5,5,1,7,5,8,6,9,8,10,6,4,4,6,7,Design,You don’t have enough skills yet. Keep learning!
+9.17,9,4,10,7,1,2,9,4,9,8,2,3,3,5,4,9,Systems,Embedded Systems Engineer
+8.44,10,1,8,9,3,9,3,6,10,7,6,5,4,6,9,3,Coding,Game Developer
+7.21,6,3,7,8,9,5,3,4,4,4,5,7,3,3,7,10,Coding,Software Engineer
+9.4,4,1,8,9,7,10,1,1,7,4,1,5,8,3,8,10,Coding,Database Administrator
+6.81,3,6,1,7,2,2,4,2,6,9,5,8,1,2,5,1,Systems,You don’t have enough skills yet. Keep learning!
+7.04,10,2,2,4,5,3,3,8,10,7,9,6,4,5,7,1,Analytics,Game Developer
+6.76,10,1,9,2,7,4,9,8,10,10,7,2,7,1,2,6,Management,Game Developer
+7.87,9,2,1,5,2,1,5,5,9,8,5,9,10,2,4,6,Analytics,Blockchain Developer
+6.85,6,2,7,2,8,6,7,6,5,7,6,8,7,2,3,8,Coding,Software Engineer
+6.47,4,10,9,6,8,1,7,5,4,8,10,10,8,6,9,3,Coding,Data Scientist
+9.74,1,10,8,8,10,3,1,2,8,6,8,2,3,8,3,10,Research,Data Analyst
+8.95,10,2,9,3,5,3,8,1,7,7,10,3,4,3,5,1,Design,Mobile App Developer
+6.99,2,6,2,3,10,9,3,4,4,7,3,7,5,4,2,6,Networking,You don’t have enough skills yet. Keep learning!
+7.16,3,9,6,4,3,9,2,5,4,5,2,7,2,4,8,8,Research,You don’t have enough skills yet. Keep learning!
+8.22,7,8,4,4,4,3,4,8,2,2,9,7,9,8,5,9,Networking,Robotics Engineer
+7.75,2,4,5,6,2,3,8,4,8,2,4,10,10,8,10,9,Management,You don’t have enough skills yet. Keep learning!
+7.28,1,5,6,1,8,2,2,8,1,4,7,9,5,7,4,7,Research,Cloud Engineer
+7.45,3,9,1,6,4,10,7,2,10,9,4,2,1,4,4,2,Management,You don’t have enough skills yet. Keep learning!
+9.16,2,1,5,4,8,4,1,3,3,1,4,4,5,7,8,10,Research,You don’t have enough skills yet. Keep learning!
+9.33,1,1,8,8,9,5,10,4,3,4,3,8,9,3,9,9,Research,IoT Engineer
+9.11,6,7,6,9,10,5,5,1,1,2,9,4,9,4,6,8,Analytics,Software Engineer
+6.01,2,10,6,9,3,6,2,6,8,9,4,5,10,7,6,1,Coding,Project Manager
+7.26,5,1,3,10,7,1,2,4,1,6,5,4,3,1,8,4,Research,You don’t have enough skills yet. Keep learning!
+6.72,9,2,9,9,7,5,10,5,8,3,1,10,4,3,5,10,Analytics,Game Developer
+6.43,6,3,3,9,7,4,5,3,2,10,9,7,8,8,2,2,Coding,Project Manager
+7.08,1,4,9,4,7,9,5,5,6,9,7,7,3,10,4,3,Management,Database Administrator
+6.71,6,4,5,6,2,2,9,2,9,3,5,5,5,8,6,9,Systems,UI/UX Designer
+9.75,10,3,3,7,10,6,9,7,2,10,7,1,10,5,9,6,Research,IoT Engineer
+9.54,10,10,10,6,8,5,8,1,3,4,6,1,5,1,7,2,Design,Data Scientist
+8.11,8,6,7,10,6,2,2,3,3,8,9,3,6,6,5,6,Systems,Embedded Systems Engineer
+8.6,6,2,6,6,2,4,4,5,8,10,3,7,2,2,10,4,Research,Software Engineer
+8.47,10,7,10,6,4,7,9,7,2,10,1,8,9,2,4,10,Research,IoT Engineer
+9.24,2,4,9,3,3,3,10,5,7,2,6,1,4,6,3,7,Analytics,You don’t have enough skills yet. Keep learning!
+6.07,7,5,4,4,5,4,2,1,2,1,6,9,2,2,5,3,Coding,Software Engineer
+9.92,4,8,5,1,9,4,5,2,6,10,1,4,2,9,4,4,Coding,You don’t have enough skills yet. Keep learning!
+9.68,10,7,9,5,3,4,5,9,5,4,8,8,7,1,8,9,Systems,Embedded Systems Engineer
+7.68,9,8,3,5,3,10,6,7,6,10,6,5,9,5,6,6,Research,Blockchain Developer
+8.19,9,10,2,8,1,6,4,2,5,7,6,2,2,7,2,7,Management,Software Engineer
+8.58,5,10,10,9,3,4,3,5,3,6,4,9,4,4,4,4,Coding,Data Analyst
+6.14,10,3,7,5,8,1,1,8,5,7,10,5,5,10,2,7,Research,Robotics Engineer
+7.34,6,6,4,6,5,8,2,2,2,9,7,10,8,4,3,6,Management,Software Engineer
+8.61,6,5,6,4,3,9,9,5,6,2,8,2,8,1,10,8,Systems,Software Engineer
+8.87,9,5,4,4,9,5,1,9,10,8,5,6,10,10,3,7,Networking,Robotics Engineer
+7.78,3,4,7,2,9,4,9,9,1,7,9,3,6,9,7,3,Systems,Network Engineer
+7.76,8,5,7,2,2,9,8,7,9,10,8,3,9,10,9,7,Systems,Embedded Systems Engineer
+7.68,1,2,7,4,3,3,6,3,3,10,4,7,7,3,10,2,Analytics,You don’t have enough skills yet. Keep learning!
+7.41,6,8,5,3,1,8,9,7,8,1,2,1,10,5,3,8,Research,IoT Engineer
+6.75,2,3,4,9,9,8,10,2,10,8,5,5,6,6,6,6,Analytics,Project Manager
+6.45,1,3,2,3,10,3,1,4,7,3,8,3,3,6,1,10,Management,You don’t have enough skills yet. Keep learning!
+7.28,9,4,8,3,6,2,3,1,9,9,5,9,4,1,9,2,Analytics,Game Developer
+8.98,4,9,3,3,2,7,4,10,10,9,8,1,5,9,3,7,Systems,You don’t have enough skills yet. Keep learning!
+7.8,10,7,1,8,4,6,8,5,10,6,7,4,1,10,6,10,Management,UI/UX Designer
+9.0,5,2,6,10,9,1,2,8,7,2,3,4,8,9,3,5,Coding,Cybersecurity Specialist
+7.38,10,2,1,7,5,7,1,8,5,4,4,4,2,10,9,4,Research,Robotics Engineer
+6.89,4,4,5,7,3,1,8,2,2,9,9,3,8,7,2,9,Management,You don’t have enough skills yet. Keep learning!
+8.38,6,1,1,7,6,1,6,5,6,2,4,2,9,6,8,7,Coding,Software Engineer
+8.45,7,8,6,7,6,2,3,2,9,2,3,9,10,10,5,2,Analytics,Robotics Engineer
+6.43,10,10,5,4,6,5,8,5,3,5,9,10,5,3,10,5,Design,Mobile App Developer
+6.94,7,4,2,10,1,7,8,7,4,10,3,1,2,8,10,4,Coding,Project Manager
+9.96,4,7,2,3,4,3,3,3,1,2,1,9,1,8,5,3,Analytics,You don’t have enough skills yet. Keep learning!
+6.28,7,10,5,6,3,7,3,8,7,6,9,1,2,1,7,10,Design,Software Engineer
+6.1,2,6,10,2,6,1,5,1,2,5,5,3,2,1,8,6,Design,You don’t have enough skills yet. Keep learning!
+7.82,2,7,7,2,4,3,1,6,5,5,3,8,6,3,5,2,Management,You don’t have enough skills yet. Keep learning!
+8.14,3,7,7,2,4,7,2,6,5,1,1,1,2,8,9,5,Systems,You don’t have enough skills yet. Keep learning!
+7.76,7,3,4,1,6,9,5,8,5,4,3,2,5,1,4,9,Networking,Software Engineer
+6.83,2,3,6,8,7,10,8,4,1,2,2,5,2,2,7,4,Management,You don’t have enough skills yet. Keep learning!
+9.75,6,8,8,1,4,9,4,8,1,9,3,7,5,1,7,3,Management,Database Administrator
+9.21,4,2,5,1,10,10,2,5,7,3,8,7,6,1,8,1,Networking,You don’t have enough skills yet. Keep learning!
+8.73,6,4,7,3,8,1,8,8,4,10,2,3,9,7,5,2,Design,Software Engineer
+9.1,9,2,5,7,10,9,9,5,7,7,6,10,1,8,4,4,Research,IoT Engineer
+6.99,7,7,9,7,2,2,4,10,5,10,9,8,4,4,9,4,Networking,Network Engineer
+6.42,10,3,4,9,6,3,5,7,1,7,8,4,7,10,2,10,Analytics,Robotics Engineer
+8.97,7,8,6,1,5,8,6,8,9,6,2,10,8,8,3,9,Management,UI/UX Designer
+7.76,4,10,8,5,2,9,7,7,6,9,4,4,5,8,10,1,Networking,Database Administrator
+6.19,6,3,1,6,8,1,7,9,8,9,6,9,10,2,3,7,Design,Cloud Engineer
+9.94,4,3,4,1,5,9,5,10,1,4,4,2,9,6,9,8,Coding,Network Engineer
+9.87,6,10,9,6,9,2,1,9,5,4,1,3,7,3,5,1,Design,Cybersecurity Specialist
+7.75,2,8,8,2,1,6,8,2,10,1,10,2,3,2,2,1,Networking,Data Scientist
+8.26,7,7,6,10,6,7,9,7,3,9,10,2,7,5,9,1,Networking,Project Manager
+8.86,7,6,1,7,5,1,10,2,3,9,7,6,2,10,7,10,Systems,Embedded Systems Engineer
+9.69,7,7,9,10,3,4,4,6,6,10,8,1,2,9,3,5,Systems,Embedded Systems Engineer
+6.15,1,7,6,7,9,10,8,4,1,9,8,5,3,7,6,2,Systems,You don’t have enough skills yet. Keep learning!
+9.42,3,8,5,7,7,1,6,2,6,4,1,2,9,10,9,10,Research,You don’t have enough skills yet. Keep learning!
+7.54,9,4,4,6,2,7,10,5,4,10,4,8,9,9,7,7,Design,Robotics Engineer
+6.94,3,4,9,7,2,3,10,5,9,2,3,10,8,6,1,3,Design,You don’t have enough skills yet. Keep learning!
+8.09,8,1,4,5,9,10,4,1,10,6,5,4,5,6,3,8,Analytics,UI/UX Designer
+6.72,2,3,7,6,4,4,8,7,10,3,5,4,1,8,10,8,Networking,UI/UX Designer
+7.7,7,7,3,6,1,8,5,9,10,3,2,10,9,9,8,1,Networking,Network Engineer
+8.41,6,10,1,9,10,2,5,5,1,3,2,7,2,6,3,8,Networking,Software Engineer
+9.08,8,7,7,10,9,7,10,6,2,8,1,10,6,10,9,8,Coding,Project Manager
+6.88,9,4,4,6,5,8,6,2,4,6,10,4,2,1,4,7,Coding,Mobile App Developer
+7.84,10,4,10,2,7,10,2,4,10,7,2,8,2,5,3,5,Systems,Embedded Systems Engineer
+9.79,8,7,3,7,10,5,2,3,5,9,1,10,7,1,3,3,Coding,Software Engineer
+8.14,3,6,3,7,6,3,2,3,8,9,5,6,2,5,8,9,Networking,You don’t have enough skills yet. Keep learning!
+9.02,8,2,1,3,3,8,5,4,1,1,2,2,8,9,9,4,Management,Robotics Engineer
+8.4,9,7,1,9,10,1,9,5,2,9,1,10,5,5,6,9,Analytics,Project Manager
+9.82,6,4,3,6,7,2,3,9,5,8,3,5,2,9,2,9,Coding,Software Engineer
+6.24,1,8,5,2,5,3,3,2,7,1,5,5,4,7,6,10,Systems,You don’t have enough skills yet. Keep learning!
+6.73,5,2,9,3,1,1,3,7,10,3,1,6,2,10,2,5,Design,You don’t have enough skills yet. Keep learning!
+6.17,7,10,10,7,2,5,6,4,7,1,10,5,7,4,5,3,Design,Data Analyst
+9.67,2,9,9,3,7,5,7,7,6,7,2,2,8,9,7,4,Networking,Data Scientist
+8.83,5,8,6,8,5,2,6,8,1,3,4,4,10,8,4,2,Management,You don’t have enough skills yet. Keep learning!
+7.09,8,7,2,8,8,5,2,1,3,8,1,5,4,2,2,3,Management,Software Engineer
+7.13,2,10,10,6,4,2,7,9,4,6,5,1,5,7,9,3,Analytics,Network Engineer
+6.82,2,2,8,1,6,9,3,4,3,1,1,6,10,4,4,5,Management,Database Administrator
+9.97,3,1,7,6,8,3,8,5,2,7,2,3,7,2,7,9,Systems,You don’t have enough skills yet. Keep learning!
+7.29,6,10,3,5,8,7,1,8,4,7,9,9,8,3,9,3,Research,Cloud Engineer
+7.09,5,9,6,10,4,8,10,10,1,7,6,5,8,5,10,8,Coding,Network Engineer
+7.37,6,7,7,7,3,10,2,9,8,8,6,5,4,6,8,9,Analytics,Network Engineer
+6.35,9,7,4,4,3,5,4,4,9,6,8,4,7,1,10,10,Networking,UI/UX Designer
+9.25,6,5,5,3,4,3,3,9,4,3,1,2,8,10,2,5,Networking,Software Engineer
+7.31,3,6,10,6,2,9,5,8,10,5,8,5,3,5,10,10,Management,UI/UX Designer
+9.23,5,3,4,8,10,6,2,10,4,4,9,6,7,10,4,7,Systems,Cybersecurity Specialist
+6.08,5,4,1,1,8,8,2,1,3,7,1,3,3,4,3,10,Networking,You don’t have enough skills yet. Keep learning!
+7.38,7,3,8,5,6,5,8,4,3,6,1,1,10,7,3,1,Management,Blockchain Developer
+8.98,4,3,1,4,6,10,10,1,1,4,6,9,7,4,2,4,Research,IoT Engineer
+8.93,10,9,10,3,8,10,3,9,2,10,4,9,3,10,2,10,Coding,Robotics Engineer
+8.83,4,2,5,1,7,9,2,4,1,9,5,4,8,4,8,9,Management,You don’t have enough skills yet. Keep learning!
+8.87,6,8,9,8,9,1,7,7,9,7,6,3,2,5,8,6,Research,Cybersecurity Specialist
+9.01,7,5,3,4,1,7,5,3,8,5,10,5,6,2,4,5,Design,Software Engineer
+9.73,4,4,10,9,5,7,2,8,5,9,9,9,10,10,6,7,Analytics,Project Manager
+9.69,3,4,4,3,7,3,2,4,1,3,8,5,6,8,3,4,Management,You don’t have enough skills yet. Keep learning!
+7.24,1,6,4,5,10,1,9,8,10,1,6,7,3,6,9,7,Management,Cloud Engineer
+7.49,8,5,4,2,10,1,10,6,3,8,9,6,2,10,1,9,Management,Robotics Engineer
+8.94,3,2,4,5,7,4,5,10,1,2,1,10,4,5,1,3,Coding,Cloud Engineer
+9.56,7,9,10,7,3,2,8,3,7,5,6,5,8,4,9,5,Systems,Embedded Systems Engineer
+7.75,7,3,10,4,4,9,7,6,5,10,2,9,9,5,10,5,Analytics,Blockchain Developer
+9.36,2,8,1,4,1,5,4,9,7,7,6,8,9,10,3,9,Systems,Cloud Engineer
+9.44,7,1,2,7,9,7,5,3,8,5,7,4,10,1,3,5,Research,Blockchain Developer
+6.68,6,5,4,1,3,2,7,8,10,4,4,4,6,10,8,9,Coding,UI/UX Designer
+9.79,4,4,10,4,9,4,4,6,1,10,2,4,4,9,3,8,Analytics,You don’t have enough skills yet. Keep learning!
+7.41,7,1,4,2,7,1,4,1,5,5,6,10,2,1,2,5,Research,Software Engineer
+6.06,8,7,5,9,7,6,6,10,9,9,2,8,1,5,4,8,Analytics,Project Manager
+6.47,4,5,1,4,10,1,1,2,5,6,5,7,9,10,9,5,Analytics,You don’t have enough skills yet. Keep learning!
+6.56,9,10,7,6,1,7,2,8,1,5,6,1,2,9,6,4,Analytics,Robotics Engineer
+8.14,2,1,5,8,1,1,8,2,8,5,9,4,10,5,2,8,Management,You don’t have enough skills yet. Keep learning!
+8.94,7,7,3,9,4,3,9,1,8,10,1,7,2,8,8,3,Coding,Project Manager
+6.3,4,5,3,4,9,3,2,3,8,2,10,4,5,8,5,5,Design,You don’t have enough skills yet. Keep learning!
+6.74,1,10,6,10,2,9,7,8,1,4,5,9,1,10,1,1,Analytics,Cloud Engineer
+7.95,7,7,9,9,5,5,6,6,8,3,1,9,9,5,6,7,Systems,Embedded Systems Engineer
+7.45,10,2,3,4,7,4,7,7,3,10,10,9,7,10,1,9,Coding,Robotics Engineer
+7.37,4,2,9,5,3,7,9,8,5,8,7,9,8,10,3,3,Design,Cloud Engineer
+9.39,5,7,3,1,9,10,8,1,3,4,6,5,1,2,5,1,Design,You don’t have enough skills yet. Keep learning!
+9.97,8,5,6,10,5,9,10,1,2,9,1,9,5,3,9,8,Design,Project Manager
+8.71,7,4,10,10,4,4,1,3,7,2,3,1,10,3,3,8,Analytics,Blockchain Developer
+9.56,2,6,4,6,2,9,10,6,1,3,8,9,7,8,7,10,Networking,You don’t have enough skills yet. Keep learning!
+6.76,8,3,8,3,10,1,2,8,1,7,4,10,8,4,6,3,Management,Blockchain Developer
+9.68,7,4,2,9,10,9,5,8,10,2,4,4,8,9,5,4,Management,Robotics Engineer
+8.33,7,1,2,3,5,3,8,1,1,1,1,5,8,1,6,10,Research,IoT Engineer
+6.94,3,6,3,9,3,10,10,2,2,1,2,10,9,8,1,8,Management,You don’t have enough skills yet. Keep learning!
+9.04,4,3,9,5,6,8,6,8,10,5,5,2,2,7,10,2,Management,You don’t have enough skills yet. Keep learning!
+6.96,5,5,8,9,4,4,2,8,1,1,9,6,3,9,7,4,Networking,You don’t have enough skills yet. Keep learning!
+9.95,3,1,6,9,8,7,1,5,7,7,8,7,4,6,9,10,Research,You don’t have enough skills yet. Keep learning!
+8.65,3,9,9,5,1,10,1,1,8,1,5,1,5,7,10,7,Analytics,Database Administrator
+8.39,4,8,10,2,2,7,8,6,7,6,2,5,8,6,9,2,Analytics,Data Scientist
+8.96,4,3,10,4,3,5,10,1,8,1,3,5,5,8,3,4,Networking,You don’t have enough skills yet. Keep learning!
+9.09,7,3,2,6,8,1,4,7,10,4,4,5,3,3,10,2,Networking,Software Engineer
+6.07,9,5,10,5,9,5,4,10,5,8,5,9,6,10,2,4,Coding,Robotics Engineer
+7.73,1,9,3,10,6,8,10,5,4,4,6,9,10,5,4,8,Analytics,You don’t have enough skills yet. Keep learning!
+6.04,2,5,5,3,1,9,4,9,7,8,6,7,1,8,9,10,Systems,Network Engineer
+8.67,5,3,1,2,2,9,10,6,3,9,4,1,9,2,4,3,Research,IoT Engineer
+9.87,10,7,6,5,3,9,10,2,6,4,2,5,6,7,2,4,Systems,Embedded Systems Engineer
+6.35,9,8,1,8,6,8,2,7,6,8,6,2,9,2,8,3,Research,Blockchain Developer
+9.74,7,2,7,10,10,9,10,5,2,6,8,3,3,8,1,6,Systems,Embedded Systems Engineer
+6.66,2,2,5,3,8,10,4,7,7,3,5,7,9,6,5,7,Networking,You don’t have enough skills yet. Keep learning!
+9.02,9,3,2,9,10,1,6,1,1,9,6,5,2,2,9,6,Research,Project Manager
+6.2,6,7,5,7,10,2,1,9,3,1,2,3,1,6,9,7,Networking,Network Engineer
+9.91,6,8,5,7,8,7,2,6,8,3,1,6,7,5,9,5,Design,Software Engineer
+9.15,3,1,4,1,6,5,5,8,9,4,8,2,8,2,5,10,Coding,UI/UX Designer
+6.86,2,1,4,1,1,8,2,9,4,1,7,9,10,7,9,7,Management,Network Engineer
+7.43,2,4,1,4,5,3,6,2,7,6,6,10,8,4,2,5,Design,You don’t have enough skills yet. Keep learning!
+8.3,4,8,1,6,1,4,10,8,1,8,4,3,2,5,4,1,Networking,You don’t have enough skills yet. Keep learning!
+7.66,10,4,9,8,2,8,7,6,7,6,9,5,1,8,4,6,Analytics,Robotics Engineer
+7.72,4,2,1,4,3,10,8,1,1,6,8,5,6,6,8,5,Design,You don’t have enough skills yet. Keep learning!
+7.87,4,10,5,2,9,7,1,5,5,4,5,2,9,3,8,1,Systems,You don’t have enough skills yet. Keep learning!
+6.86,3,7,1,6,7,9,2,9,1,10,8,4,4,1,7,4,Analytics,Network Engineer
+6.2,8,10,10,6,9,8,7,7,7,9,7,2,6,4,7,6,Networking,Cybersecurity Specialist
+6.6,7,2,7,8,8,3,3,1,7,3,6,6,1,4,1,8,Research,Software Engineer
+6.25,5,6,3,9,3,7,5,2,2,6,7,2,8,2,8,5,Research,You don’t have enough skills yet. Keep learning!
+8.0,3,3,1,10,10,2,4,1,9,1,2,2,10,8,3,8,Networking,UI/UX Designer
+7.3,1,4,3,4,5,7,6,9,10,2,1,1,6,6,6,5,Systems,You don’t have enough skills yet. Keep learning!
+8.94,2,2,10,3,7,3,1,1,9,3,5,3,5,5,2,5,Systems,You don’t have enough skills yet. Keep learning!
+7.36,5,1,5,7,4,1,2,8,6,9,1,3,3,9,2,8,Systems,You don’t have enough skills yet. Keep learning!
+7.17,9,4,7,1,4,3,9,4,3,2,10,5,4,6,6,4,Coding,AI/ML Engineer
+7.87,3,9,10,6,7,5,3,7,7,4,5,5,3,6,3,6,Analytics,Data Analyst
+9.65,2,9,9,3,7,8,9,10,5,6,9,6,3,10,8,1,Coding,Network Engineer
+7.73,6,1,8,2,10,3,3,5,2,3,8,10,10,10,4,6,Coding,Software Engineer
+6.21,4,3,4,8,10,7,4,2,3,4,9,1,5,1,4,5,Networking,You don’t have enough skills yet. Keep learning!
+8.07,8,6,5,1,8,2,1,9,10,1,3,1,3,7,6,1,Systems,Embedded Systems Engineer
+9.4,7,2,1,9,7,4,5,6,1,1,3,8,10,3,9,7,Analytics,Blockchain Developer
+6.38,7,2,6,10,3,4,4,6,6,3,2,4,2,1,8,9,Design,Software Engineer
+6.98,2,4,3,1,4,2,6,2,10,2,6,9,9,6,10,6,Design,You don’t have enough skills yet. Keep learning!
+6.5,10,8,7,9,3,6,8,2,2,3,6,2,9,1,8,4,Management,Blockchain Developer
+6.2,2,1,5,8,7,1,9,2,9,8,6,1,2,3,10,6,Coding,You don’t have enough skills yet. Keep learning!
+8.89,6,5,8,1,2,1,2,4,6,6,8,2,8,4,9,2,Design,Software Engineer
+8.19,6,2,9,7,3,10,4,4,2,6,5,4,9,9,9,2,Systems,Database Administrator
+6.22,7,8,8,2,4,2,10,5,6,7,4,4,5,5,7,2,Networking,Data Scientist
+6.84,6,5,4,8,2,4,2,9,4,1,6,5,9,7,9,7,Design,Network Engineer
+8.14,2,8,2,4,5,6,3,8,3,4,6,9,10,4,3,8,Management,Cloud Engineer
+6.78,1,2,5,1,6,6,5,2,8,3,7,3,9,5,8,6,Analytics,You don’t have enough skills yet. Keep learning!
+7.6,9,10,4,8,2,6,4,6,8,6,7,5,7,5,8,8,Design,Game Developer
+9.36,7,6,1,7,10,7,4,8,5,5,5,8,2,2,8,7,Systems,Embedded Systems Engineer
+7.62,3,1,9,1,7,3,2,9,6,2,9,5,7,8,5,5,Coding,You don’t have enough skills yet. Keep learning!
+6.39,7,8,5,9,3,5,2,7,10,5,9,9,4,10,4,3,Management,Robotics Engineer
+8.73,8,7,2,1,4,8,2,7,5,4,9,9,2,10,5,5,Systems,Embedded Systems Engineer
+8.21,9,3,1,5,7,4,10,6,2,4,7,1,5,10,10,4,Research,IoT Engineer
+9.26,6,4,9,1,9,8,7,10,7,2,9,1,1,4,7,1,Networking,Network Engineer
+9.78,8,5,7,10,10,6,1,4,1,10,10,3,9,8,7,9,Coding,Project Manager
+6.8,6,1,9,4,2,10,4,10,6,7,4,10,7,4,1,3,Design,Database Administrator
+6.4,10,9,9,10,1,4,2,4,3,3,2,7,5,1,2,9,Research,Data Analyst
+6.11,4,5,3,7,2,8,7,6,1,5,6,2,7,4,6,6,Management,You don’t have enough skills yet. Keep learning!
+7.75,7,6,2,3,9,7,2,2,9,2,3,4,9,8,9,1,Analytics,Robotics Engineer
+8.27,9,8,9,1,1,8,3,7,4,2,5,2,6,1,7,8,Coding,Data Analyst
+9.11,3,3,9,4,5,5,6,2,1,9,9,8,1,2,10,4,Research,You don’t have enough skills yet. Keep learning!
+8.61,3,5,10,4,10,4,9,5,7,4,2,8,8,3,9,4,Research,IoT Engineer
+8.17,6,1,5,8,4,9,2,6,8,6,6,6,8,6,6,4,Research,Software Engineer
+7.1,3,10,3,2,7,3,7,7,8,6,5,6,1,7,8,6,Design,You don’t have enough skills yet. Keep learning!
+9.88,7,2,1,9,7,7,5,5,9,1,1,6,5,2,1,7,Systems,Embedded Systems Engineer
+6.88,1,7,7,9,5,2,9,1,5,2,8,9,10,5,6,1,Design,You don’t have enough skills yet. Keep learning!
+9.24,3,4,9,6,3,5,1,7,3,5,7,4,6,6,3,10,Design,You don’t have enough skills yet. Keep learning!
+6.76,6,1,2,10,2,10,7,3,6,4,9,10,5,8,3,7,Design,Software Engineer
+8.38,2,6,6,8,8,4,1,1,3,7,4,6,10,2,6,3,Networking,You don’t have enough skills yet. Keep learning!
+6.58,1,1,4,7,9,9,8,2,2,6,9,8,9,4,6,6,Networking,You don’t have enough skills yet. Keep learning!
+7.41,6,7,7,5,5,4,10,8,2,10,7,4,7,1,8,6,Analytics,Software Engineer
+9.18,1,8,10,6,8,8,1,9,6,2,2,5,6,4,3,4,Research,Data Analyst
+7.14,5,2,3,1,6,3,10,5,3,3,3,9,7,9,6,5,Management,You don’t have enough skills yet. Keep learning!
+8.75,10,1,10,9,6,8,3,1,9,3,9,9,7,7,2,9,Coding,UI/UX Designer
+8.65,10,9,3,9,4,5,6,4,2,4,2,5,3,8,7,3,Networking,Robotics Engineer
+6.48,10,1,10,7,8,10,9,8,6,8,5,5,1,4,8,2,Networking,Database Administrator
+8.21,10,4,6,4,4,8,3,3,2,7,10,9,3,1,4,7,Coding,Mobile App Developer
+6.25,5,7,1,5,6,10,8,8,5,5,7,4,1,1,7,1,Systems,You don’t have enough skills yet. Keep learning!
+7.83,6,1,5,1,10,9,10,8,8,2,7,1,2,3,4,4,Analytics,Cybersecurity Specialist
+8.76,3,3,8,9,7,5,6,7,4,9,4,8,7,5,4,5,Analytics,Project Manager
+8.37,10,4,1,5,2,3,9,1,5,9,3,4,1,4,4,8,Networking,AI/ML Engineer
+7.8,8,1,6,8,5,5,6,6,3,1,7,7,10,3,2,5,Research,Blockchain Developer
+9.24,1,3,10,5,4,2,4,4,2,8,10,3,8,10,10,7,Management,You don’t have enough skills yet. Keep learning!
+6.29,10,3,9,6,9,9,3,7,8,8,6,7,2,6,7,10,Design,Game Developer
+9.21,5,9,5,1,1,5,6,1,2,1,7,9,7,9,5,6,Design,You don’t have enough skills yet. Keep learning!
+8.18,4,3,4,5,4,6,5,8,7,6,10,2,7,1,2,1,Analytics,You don’t have enough skills yet. Keep learning!
+6.62,3,6,3,7,1,9,6,2,1,2,8,3,3,1,8,1,Networking,You don’t have enough skills yet. Keep learning!
+6.77,1,1,2,7,3,8,1,4,2,2,1,3,1,9,9,3,Analytics,You don’t have enough skills yet. Keep learning!
+6.92,9,1,8,2,4,8,4,5,4,6,7,7,8,9,10,2,Networking,Robotics Engineer
+9.66,8,10,9,6,4,6,8,5,5,9,8,7,5,2,2,3,Design,Data Scientist
+6.82,2,9,2,7,8,7,4,7,1,2,4,10,2,1,8,5,Design,You don’t have enough skills yet. Keep learning!
+6.15,6,1,9,7,10,8,4,3,10,4,4,10,2,4,8,2,Networking,Software Engineer
+9.79,6,5,10,9,9,4,3,10,8,5,1,5,5,5,1,9,Coding,Cybersecurity Specialist
+9.97,7,10,10,9,9,4,5,4,5,4,4,4,5,6,3,6,Systems,Embedded Systems Engineer
+6.14,9,5,3,1,1,9,4,1,5,6,10,10,1,2,7,5,Design,Mobile App Developer
+9.71,4,8,10,4,2,2,3,4,2,5,6,3,1,2,3,7,Coding,Data Analyst
+9.29,4,8,4,1,4,4,5,2,5,8,3,3,2,3,4,9,Systems,You don’t have enough skills yet. Keep learning!
+9.1,2,7,6,5,5,6,8,3,4,6,6,8,7,2,4,6,Networking,You don’t have enough skills yet. Keep learning!
+8.3,9,6,10,3,10,1,10,6,2,2,10,1,2,7,8,4,Networking,AI/ML Engineer
+8.86,9,2,10,8,6,8,4,9,6,8,9,6,5,8,10,1,Analytics,Network Engineer
+9.01,1,4,6,4,9,7,3,8,9,3,8,6,6,2,4,5,Research,Cybersecurity Specialist
+7.5,8,8,8,10,8,3,10,7,2,7,4,5,8,9,8,7,Research,IoT Engineer
+7.45,9,1,2,3,6,1,5,10,10,1,8,3,2,10,10,10,Management,UI/UX Designer
+7.99,8,9,5,6,7,10,7,5,9,4,10,6,1,9,7,9,Management,UI/UX Designer
+9.08,3,2,10,2,9,4,10,3,6,1,6,10,7,5,3,3,Systems,You don’t have enough skills yet. Keep learning!
+6.05,6,10,9,9,2,9,2,5,10,6,1,1,7,1,4,1,Coding,Database Administrator
+8.84,10,3,7,4,10,9,9,8,10,3,6,3,4,2,8,2,Design,Game Developer
+6.38,2,8,10,4,10,8,5,1,6,1,7,9,3,2,9,8,Design,Data Analyst
+9.23,4,10,7,1,4,5,8,1,9,8,5,7,7,6,2,8,Systems,UI/UX Designer
+6.42,3,5,8,2,3,8,6,10,10,9,3,3,2,6,3,5,Management,You don’t have enough skills yet. Keep learning!
+7.97,8,10,10,5,2,6,1,10,4,9,2,1,6,4,9,10,Analytics,Network Engineer
+6.83,9,9,8,1,7,4,3,9,3,2,4,8,8,2,2,6,Systems,Embedded Systems Engineer
+7.54,8,8,2,5,3,9,4,9,10,5,10,9,4,1,6,3,Analytics,Cloud Engineer
+9.98,1,3,7,8,2,7,4,3,1,2,4,3,7,4,10,2,Management,You don’t have enough skills yet. Keep learning!
+6.74,10,10,4,4,6,5,8,8,8,8,2,9,7,9,2,5,Analytics,Robotics Engineer
+6.39,9,6,7,4,4,6,8,1,1,1,2,1,6,5,4,8,Analytics,Software Engineer
+7.82,7,8,5,4,1,1,10,6,10,6,4,6,7,7,6,2,Coding,Software Engineer
+8.82,3,3,7,3,2,2,3,10,5,10,4,10,7,4,4,10,Management,Cloud Engineer
+8.97,10,9,6,3,3,3,7,3,2,1,10,6,4,6,1,1,Design,Mobile App Developer
+8.6,6,2,5,8,3,7,2,4,5,1,2,3,7,7,5,3,Networking,Software Engineer
+9.73,5,2,5,1,9,10,9,4,6,4,8,4,6,2,6,3,Analytics,You don’t have enough skills yet. Keep learning!
+8.47,9,4,10,7,1,10,8,5,7,4,10,2,4,1,6,1,Analytics,Database Administrator
+7.21,8,4,6,2,7,7,9,9,3,1,7,3,8,4,1,2,Design,Blockchain Developer
+8.75,4,4,2,1,10,10,1,3,2,8,2,4,5,8,9,7,Design,You don’t have enough skills yet. Keep learning!
+9.71,1,2,10,4,7,1,8,10,1,6,1,6,1,3,4,5,Management,You don’t have enough skills yet. Keep learning!
+8.29,7,3,6,9,8,8,5,7,6,7,1,3,10,8,2,4,Systems,Embedded Systems Engineer
+8.79,4,6,4,9,1,10,4,6,4,3,5,5,5,4,5,1,Design,You don’t have enough skills yet. Keep learning!
+6.8,8,2,6,1,1,4,5,8,8,6,9,10,4,1,8,8,Design,Cloud Engineer
+6.41,6,9,1,8,8,7,8,7,6,3,6,3,4,9,7,9,Coding,Software Engineer
+6.56,5,1,4,1,1,4,5,9,8,5,3,6,3,7,4,6,Design,You don’t have enough skills yet. Keep learning!
+7.65,1,7,2,6,5,9,9,9,5,3,9,2,8,10,4,5,Analytics,You don’t have enough skills yet. Keep learning!
+9.56,8,1,3,1,3,3,2,3,6,10,4,5,9,9,4,7,Systems,Embedded Systems Engineer
+9.47,10,2,8,10,4,3,5,10,6,7,3,10,5,8,1,10,Analytics,Robotics Engineer
+7.68,2,3,9,4,5,8,3,7,9,9,1,6,6,7,2,5,Management,You don’t have enough skills yet. Keep learning!
+8.58,4,9,7,9,8,10,2,3,3,5,10,1,2,3,6,10,Management,Database Administrator
+6.36,5,3,5,10,10,6,7,8,1,10,5,3,4,6,3,10,Research,Project Manager
+8.87,8,1,4,10,7,5,10,3,4,9,10,7,3,3,6,8,Coding,Project Manager
+6.21,10,5,9,10,1,9,2,2,6,3,6,8,7,3,6,7,Design,Database Administrator
+6.23,6,3,4,3,6,1,1,5,4,9,5,5,8,9,4,8,Systems,Software Engineer
+9.94,7,1,1,8,2,1,8,10,6,9,6,9,1,4,3,3,Management,Cloud Engineer
+7.39,2,9,5,10,5,2,6,1,1,9,9,9,4,1,10,3,Research,Project Manager
+6.93,4,7,7,6,9,10,3,10,3,8,3,1,3,5,8,9,Coding,Network Engineer
+8.76,8,8,10,2,8,9,8,8,3,6,10,1,1,9,6,1,Networking,Robotics Engineer
+8.14,2,4,6,4,6,2,1,5,6,6,8,9,7,1,10,6,Analytics,You don’t have enough skills yet. Keep learning!
+8.63,9,4,5,8,4,10,7,1,6,7,10,1,7,5,1,8,Research,Mobile App Developer
+9.63,1,10,2,6,9,1,10,5,6,4,3,7,6,3,4,7,Analytics,You don’t have enough skills yet. Keep learning!
+6.73,5,7,1,9,6,3,5,5,7,9,7,1,9,8,1,2,Research,Project Manager
+6.46,1,6,2,1,7,5,3,2,9,9,10,2,10,8,5,1,Design,You don’t have enough skills yet. Keep learning!
+8.59,8,4,5,2,2,5,4,4,8,1,7,6,6,9,3,9,Coding,Robotics Engineer
+9.35,3,5,5,2,7,1,4,1,5,9,8,10,5,1,8,6,Networking,You don’t have enough skills yet. Keep learning!
+6.26,9,2,8,7,4,3,5,1,9,10,5,1,6,4,1,9,Research,UI/UX Designer
+6.3,7,10,1,6,2,6,10,3,10,6,6,6,9,3,5,4,Networking,Blockchain Developer
+6.97,2,10,1,6,1,10,1,8,1,3,2,1,5,8,5,3,Networking,You don’t have enough skills yet. Keep learning!
+9.48,1,4,7,5,8,6,2,2,3,4,7,5,3,3,4,6,Design,You don’t have enough skills yet. Keep learning!
+9.4,1,5,8,10,9,9,6,8,5,6,4,4,1,5,2,8,Systems,Database Administrator
+6.25,7,1,4,4,2,3,2,5,8,6,9,4,8,4,3,5,Management,Blockchain Developer
+7.99,6,6,2,9,3,10,5,8,10,9,4,6,8,6,4,7,Networking,Project Manager
+7.87,10,5,7,1,3,2,5,5,10,8,9,6,10,8,5,5,Design,Robotics Engineer
+9.96,4,5,2,6,3,2,7,5,9,3,3,4,2,2,2,3,Design,You don’t have enough skills yet. Keep learning!
+9.47,5,3,9,1,9,8,7,8,9,5,1,8,7,2,1,10,Networking,UI/UX Designer
+9.56,8,10,10,6,10,2,4,1,8,3,1,9,6,8,2,10,Management,Robotics Engineer
+6.73,9,1,1,7,9,10,10,6,4,4,9,10,7,1,6,1,Research,IoT Engineer
+6.6,2,7,6,7,2,3,1,8,6,3,8,10,6,3,4,6,Networking,Cloud Engineer
+8.75,9,6,10,6,3,9,10,9,10,4,6,1,1,10,6,4,Research,IoT Engineer
+8.45,3,10,9,3,5,7,9,4,4,6,6,2,3,8,10,3,Design,Data Scientist
+6.14,3,3,2,1,2,8,1,2,4,3,5,4,10,9,4,8,Management,You don’t have enough skills yet. Keep learning!
+8.98,6,7,1,9,6,8,3,2,9,5,10,4,3,6,10,4,Analytics,Software Engineer
+6.58,5,6,8,4,6,5,7,2,5,8,8,9,6,9,9,3,Systems,You don’t have enough skills yet. Keep learning!
+7.22,3,3,2,7,10,3,7,9,4,10,2,3,5,10,5,6,Systems,Cybersecurity Specialist
+8.13,3,6,4,4,6,10,5,6,10,8,1,6,7,6,9,3,Management,You don’t have enough skills yet. Keep learning!
+8.99,5,3,3,8,6,6,7,1,9,10,2,6,8,5,6,1,Systems,You don’t have enough skills yet. Keep learning!
+6.53,1,1,6,1,2,3,6,10,10,10,4,3,2,3,10,10,Design,UI/UX Designer
+9.57,5,3,8,9,3,7,9,4,2,2,9,4,1,7,8,8,Networking,You don’t have enough skills yet. Keep learning!
+9.37,5,4,10,7,7,2,3,3,6,7,2,10,9,5,9,2,Management,You don’t have enough skills yet. Keep learning!
+9.25,7,10,6,8,9,6,2,5,4,7,9,10,9,6,8,4,Systems,Embedded Systems Engineer
+9.37,8,9,1,2,9,7,10,1,1,10,10,10,7,8,4,9,Design,Robotics Engineer
+7.15,6,10,2,1,7,5,3,3,2,7,6,5,6,8,10,8,Systems,Software Engineer
+8.75,7,7,3,9,7,10,7,10,9,8,6,3,10,6,6,3,Research,Project Manager
+7.73,10,8,10,6,4,1,2,2,3,10,10,3,4,4,5,2,Research,Data Analyst
+7.99,8,10,9,3,1,5,5,1,3,2,4,10,4,3,1,3,Networking,Data Analyst
+8.72,5,2,1,2,8,8,4,4,2,6,4,8,7,4,2,9,Research,You don’t have enough skills yet. Keep learning!
+7.94,5,10,4,10,1,2,7,9,3,2,2,1,10,3,9,2,Systems,Network Engineer
+7.72,5,5,2,1,3,5,6,5,6,9,4,9,3,10,6,5,Design,You don’t have enough skills yet. Keep learning!
+9.27,7,3,4,5,5,3,7,10,8,4,1,10,8,1,8,2,Systems,Embedded Systems Engineer
+8.52,6,4,2,2,3,9,4,1,5,10,6,7,6,6,10,8,Networking,Software Engineer
+7.79,9,7,9,9,9,6,5,3,5,5,8,5,7,7,2,2,Management,Mobile App Developer
+6.35,1,9,4,6,6,7,6,4,4,6,2,2,1,3,8,5,Management,You don’t have enough skills yet. Keep learning!
+6.47,10,1,5,6,1,9,8,1,3,10,3,5,3,8,7,8,Coding,Robotics Engineer
+7.09,5,9,1,6,5,9,10,9,5,7,4,10,4,3,7,10,Coding,Network Engineer
+6.23,9,5,8,5,3,5,10,3,5,2,3,10,6,9,1,1,Research,IoT Engineer
+7.93,5,1,4,3,2,10,2,2,9,6,2,10,6,9,4,7,Coding,You don’t have enough skills yet. Keep learning!
+6.31,9,5,9,8,2,5,5,8,5,1,4,2,4,6,9,9,Design,Software Engineer
+7.05,7,7,8,7,4,4,5,7,1,3,2,2,4,10,9,8,Coding,Robotics Engineer
+6.5,4,7,4,4,2,4,8,3,6,2,1,4,2,9,1,2,Design,You don’t have enough skills yet. Keep learning!
+7.75,4,6,10,8,6,6,6,10,10,9,8,6,10,4,10,10,Research,UI/UX Designer
+6.58,8,4,9,1,2,1,7,5,10,9,5,2,5,10,8,5,Networking,Robotics Engineer
+7.24,8,9,3,10,2,4,7,9,5,8,7,1,3,7,2,10,Coding,Project Manager
+9.52,5,10,9,6,2,6,7,4,7,3,7,6,6,3,10,10,Systems,Data Scientist
+6.86,4,5,4,4,9,10,5,5,5,7,8,3,1,8,4,4,Management,You don’t have enough skills yet. Keep learning!
+8.55,4,4,3,5,9,7,3,7,7,1,5,10,3,9,6,6,Design,Cybersecurity Specialist
+6.82,8,9,6,4,8,6,1,5,9,1,3,10,9,8,1,8,Analytics,UI/UX Designer
+6.35,10,3,9,8,8,7,7,10,7,5,10,10,8,8,4,2,Research,Robotics Engineer
+8.51,2,4,3,7,1,4,4,9,8,7,6,6,7,1,10,7,Design,Network Engineer
+6.42,8,9,4,7,4,4,6,8,7,1,10,2,10,10,5,7,Management,Robotics Engineer
+9.74,6,7,3,9,10,6,8,8,7,3,4,5,7,9,3,9,Networking,Cybersecurity Specialist
+6.43,1,10,4,5,10,8,4,1,7,8,4,4,4,6,1,3,Coding,You don’t have enough skills yet. Keep learning!
+6.38,1,6,10,2,3,2,1,1,5,2,1,1,6,10,2,1,Management,You don’t have enough skills yet. Keep learning!
+6.94,8,8,9,3,5,2,3,4,8,2,2,9,7,6,1,4,Analytics,Data Analyst
+6.3,7,9,7,2,5,7,6,8,1,10,1,7,2,4,2,8,Management,Cloud Engineer
+7.26,1,5,5,1,2,1,3,2,2,1,8,5,4,6,1,2,Systems,You don’t have enough skills yet. Keep learning!
+7.46,9,7,10,9,6,8,6,8,4,3,4,7,9,8,2,4,Management,Robotics Engineer
+6.9,10,5,5,9,3,4,6,2,5,1,3,1,1,6,10,8,Research,Software Engineer
+6.79,5,1,10,10,2,7,2,1,1,2,2,4,7,1,3,4,Networking,You don’t have enough skills yet. Keep learning!
+8.97,3,2,2,10,4,10,4,4,4,3,7,4,10,1,2,3,Coding,You don’t have enough skills yet. Keep learning!
+9.03,8,3,4,5,2,8,4,1,7,1,4,4,6,10,6,3,Analytics,Robotics Engineer
+8.38,6,7,3,6,1,5,9,1,8,9,1,2,10,8,10,5,Systems,Software Engineer
+9.2,10,8,2,6,4,9,3,8,6,9,5,4,3,7,6,10,Research,Web Developer
+7.08,4,6,1,2,9,4,8,7,3,4,7,10,9,2,9,1,Design,Cybersecurity Specialist
+6.35,3,1,9,10,8,1,8,10,10,4,5,1,2,6,8,9,Networking,UI/UX Designer
+6.84,2,10,1,9,4,6,10,2,10,9,1,3,8,7,10,3,Systems,Project Manager
+8.77,10,6,10,5,6,2,7,6,7,2,6,7,8,4,8,6,Management,Blockchain Developer
+6.76,4,4,1,9,8,9,1,10,4,10,2,7,1,10,8,10,Design,Project Manager
+9.33,8,8,6,10,9,7,6,2,7,6,4,4,2,4,8,9,Research,Web Developer
+9.47,4,3,8,3,9,8,8,2,5,5,3,9,7,7,1,5,Research,IoT Engineer
+8.15,7,4,5,2,10,4,8,8,7,3,4,4,5,4,1,9,Networking,Cybersecurity Specialist
+8.14,8,8,2,3,3,6,1,9,7,6,7,7,1,2,3,3,Management,Cloud Engineer
+8.32,3,8,8,9,10,1,4,10,7,3,6,7,2,5,10,6,Design,Network Engineer
+8.83,2,5,4,4,9,5,10,4,2,5,7,5,7,1,8,1,Research,IoT Engineer
+7.87,2,8,2,8,8,7,6,10,2,1,2,1,5,1,8,8,Analytics,Network Engineer
+6.64,7,8,6,8,4,10,3,8,10,8,4,1,5,7,8,3,Research,Software Engineer
+9.93,8,6,1,10,2,10,7,10,3,7,8,4,5,7,9,1,Management,Network Engineer
+7.16,10,5,8,2,8,9,5,2,7,5,7,10,3,6,2,8,Systems,Embedded Systems Engineer
+9.34,7,5,1,6,10,9,6,1,8,9,2,9,8,1,1,10,Design,Blockchain Developer
+9.54,9,4,10,10,9,9,9,1,5,5,4,5,10,6,8,5,Systems,Embedded Systems Engineer
+8.41,6,5,10,2,1,4,4,5,9,4,1,3,9,9,3,7,Systems,Software Engineer
+9.02,6,7,7,7,4,3,4,10,8,3,6,8,6,9,2,2,Systems,Cloud Engineer
+8.33,3,5,7,9,8,10,7,2,1,3,1,6,4,3,1,4,Analytics,Database Administrator
+6.34,3,10,1,8,4,6,6,1,9,5,7,9,4,4,8,7,Networking,You don’t have enough skills yet. Keep learning!
+6.62,1,1,1,3,1,5,9,7,4,8,6,6,4,6,5,5,Research,IoT Engineer
+9.08,6,8,3,1,5,8,8,4,7,8,7,8,9,4,7,3,Networking,Software Engineer
+9.37,4,3,7,9,3,2,5,2,7,4,9,8,4,7,6,1,Management,You don’t have enough skills yet. Keep learning!
+9.98,9,3,8,1,1,9,10,1,5,2,4,5,4,9,1,3,Research,IoT Engineer
+8.06,1,2,1,5,3,5,8,2,1,9,7,3,4,10,1,8,Analytics,You don’t have enough skills yet. Keep learning!
+8.3,6,2,7,2,2,6,8,6,2,8,9,4,2,2,9,1,Coding,Software Engineer
+6.07,2,10,2,9,4,7,9,4,5,1,9,10,2,8,7,4,Networking,You don’t have enough skills yet. Keep learning!
+6.33,4,3,2,5,10,6,6,10,6,8,7,5,6,10,2,1,Systems,Cybersecurity Specialist
+9.72,3,3,6,5,4,9,3,3,10,5,7,1,6,4,7,3,Analytics,You don’t have enough skills yet. Keep learning!
+7.88,4,7,5,1,1,6,7,8,8,3,3,4,5,1,4,7,Design,You don’t have enough skills yet. Keep learning!
+9.51,9,2,6,4,9,9,9,7,10,4,4,6,8,3,2,1,Analytics,Blockchain Developer
+8.26,5,10,3,4,6,7,2,1,9,1,1,10,4,5,8,2,Management,You don’t have enough skills yet. Keep learning!
+9.31,5,4,2,6,5,6,2,8,9,4,5,2,10,3,10,2,Systems,You don’t have enough skills yet. Keep learning!
+9.14,7,8,8,10,2,6,9,7,5,6,2,7,4,3,10,1,Management,Data Scientist
+8.5,5,9,5,8,3,7,7,4,7,2,9,7,4,5,3,7,Management,You don’t have enough skills yet. Keep learning!
+8.68,8,6,9,2,6,4,5,2,3,1,10,7,5,9,10,4,Systems,Embedded Systems Engineer
+6.61,10,7,7,4,6,3,8,1,8,4,6,1,9,6,7,10,Systems,Embedded Systems Engineer
+9.67,10,1,1,6,10,6,1,8,8,7,4,10,10,5,9,6,Management,Blockchain Developer
+8.57,6,8,10,3,10,8,2,8,9,10,6,3,2,8,7,6,Research,Cybersecurity Specialist
+8.13,5,10,3,2,2,1,1,5,6,5,6,4,4,1,4,10,Management,You don’t have enough skills yet. Keep learning!
+7.65,1,4,10,7,10,3,5,9,10,10,9,3,9,2,9,8,Research,UI/UX Designer
+7.4,2,10,10,5,1,8,8,9,5,4,2,9,2,1,3,7,Coding,Cloud Engineer
+6.17,2,10,3,4,6,9,6,5,5,6,6,5,3,5,7,6,Design,You don’t have enough skills yet. Keep learning!
+8.44,2,4,6,3,8,6,6,8,9,4,7,4,2,3,3,1,Research,You don’t have enough skills yet. Keep learning!
+6.73,6,2,4,4,1,10,6,2,9,10,8,1,1,7,6,7,Systems,Software Engineer
+8.46,9,2,10,7,1,8,5,3,9,5,2,7,10,2,9,8,Design,UI/UX Designer
+7.46,9,8,6,2,5,8,7,5,9,3,2,7,9,8,4,5,Design,Robotics Engineer
+6.19,3,8,3,3,4,4,6,4,10,2,9,5,6,4,9,7,Networking,You don’t have enough skills yet. Keep learning!
+7.04,3,8,6,8,5,9,8,7,4,5,7,3,6,7,1,10,Research,IoT Engineer
+8.69,5,1,10,2,7,4,6,5,9,10,8,4,8,9,8,1,Research,You don’t have enough skills yet. Keep learning!
+8.43,4,10,4,7,8,8,9,3,10,3,6,3,2,6,5,3,Design,You don’t have enough skills yet. Keep learning!
+9.74,9,8,10,1,4,5,8,8,5,8,9,9,1,4,8,2,Management,Cloud Engineer
+6.12,9,1,2,3,6,6,9,8,5,1,3,6,8,6,8,8,Design,Blockchain Developer
+8.42,8,9,10,10,8,2,5,5,8,9,8,9,6,7,8,1,Management,Project Manager
+9.88,7,2,9,3,10,7,4,7,8,1,8,6,3,1,9,5,Analytics,Cybersecurity Specialist
+9.44,8,5,5,2,8,5,9,1,6,4,1,3,5,1,4,8,Research,IoT Engineer
+7.84,6,3,4,1,1,5,7,10,5,10,8,6,9,4,7,5,Networking,Network Engineer
+9.45,6,2,7,4,9,3,5,4,1,7,6,4,2,2,5,7,Coding,Software Engineer
+8.55,10,6,7,7,1,6,9,4,5,5,4,9,1,9,3,10,Research,IoT Engineer
+6.31,10,6,10,7,9,6,7,7,8,3,6,8,5,2,6,1,Analytics,Game Developer
+9.1,5,4,10,6,9,1,6,3,8,3,5,2,1,8,8,6,Networking,You don’t have enough skills yet. Keep learning!
+8.24,5,5,2,5,4,9,1,5,1,1,5,10,4,9,5,7,Management,You don’t have enough skills yet. Keep learning!
+6.78,1,10,3,10,4,4,9,10,10,6,4,5,2,1,6,5,Management,You don’t have enough skills yet. Keep learning!
+9.8,3,9,6,10,10,8,5,7,7,3,10,10,6,10,3,6,Research,Cybersecurity Specialist
+6.29,5,2,7,1,10,5,7,6,8,10,4,8,7,3,3,3,Systems,You don’t have enough skills yet. Keep learning!
+8.68,1,10,2,4,10,8,7,8,6,2,6,4,9,7,7,5,Analytics,Cybersecurity Specialist
+8.67,3,8,2,9,2,10,1,6,3,2,3,9,9,3,3,5,Management,You don’t have enough skills yet. Keep learning!
+8.3,5,4,10,3,2,3,8,1,5,4,9,5,3,8,7,6,Analytics,You don’t have enough skills yet. Keep learning!
+9.11,1,3,2,9,7,1,4,3,10,1,7,5,6,8,7,2,Analytics,You don’t have enough skills yet. Keep learning!
+7.26,8,6,10,5,3,7,10,4,10,5,9,8,10,5,7,1,Coding,Blockchain Developer
+9.18,8,6,10,3,10,5,5,8,9,10,4,7,7,8,4,1,Management,Robotics Engineer
+6.43,7,10,6,10,6,4,8,6,5,3,8,8,10,9,2,7,Design,Robotics Engineer
+6.42,7,10,9,10,4,3,10,2,5,2,5,7,7,7,4,8,Analytics,Data Scientist
+7.16,10,2,1,1,5,5,6,7,2,3,1,6,1,7,8,8,Design,Software Engineer
+9.43,5,8,4,8,3,6,4,9,5,4,3,4,3,3,1,5,Management,You don’t have enough skills yet. Keep learning!
+8.22,1,6,4,3,3,7,8,4,7,10,3,9,2,1,2,5,Design,You don’t have enough skills yet. Keep learning!
+6.28,9,7,5,10,7,3,8,9,9,5,4,8,6,2,10,7,Management,Network Engineer
+9.54,2,8,5,9,1,3,7,1,3,1,9,5,6,6,6,9,Analytics,You don’t have enough skills yet. Keep learning!
+6.11,7,10,10,3,4,9,7,9,2,1,6,5,8,2,3,5,Networking,Blockchain Developer
+6.99,5,9,4,10,5,1,4,9,1,2,6,6,6,5,8,4,Research,Network Engineer
+6.35,7,9,2,5,4,8,2,2,4,5,3,7,4,1,10,6,Research,Software Engineer
+6.87,1,8,10,9,8,2,10,9,3,9,9,6,4,1,8,6,Systems,Project Manager
+7.96,2,7,4,2,7,1,4,7,4,4,8,10,5,6,2,3,Coding,You don’t have enough skills yet. Keep learning!
+8.46,2,8,7,4,7,8,2,10,3,10,10,4,5,4,2,5,Research,Data Analyst
+9.08,3,5,4,5,2,6,1,6,10,4,4,5,8,5,7,9,Systems,UI/UX Designer
+6.39,6,3,9,3,7,5,5,7,7,8,3,10,2,7,10,10,Networking,Software Engineer
+7.3,2,5,1,9,4,2,1,2,3,2,6,6,1,4,7,2,Research,You don’t have enough skills yet. Keep learning!
+6.27,2,1,10,4,2,4,7,8,10,5,5,8,9,2,3,6,Design,Cloud Engineer
+9.89,7,7,2,2,2,9,7,3,10,9,5,3,8,6,2,4,Design,Blockchain Developer
+7.59,5,5,10,6,2,7,1,2,4,7,8,6,6,7,2,2,Research,You don’t have enough skills yet. Keep learning!
+6.58,9,4,8,8,2,1,1,1,1,4,4,3,5,4,10,1,Research,Software Engineer
+9.03,10,10,7,6,5,7,5,6,1,9,4,1,1,1,1,4,Analytics,Data Analyst
+9.52,4,9,6,3,8,1,4,8,10,1,7,1,9,3,4,4,Analytics,You don’t have enough skills yet. Keep learning!
+6.09,4,7,8,7,8,9,2,5,2,4,10,1,10,6,5,6,Coding,Database Administrator
+8.84,7,7,2,2,4,4,10,5,6,2,5,2,1,1,5,4,Systems,Embedded Systems Engineer
+6.37,2,4,7,5,9,2,9,10,10,7,10,9,8,1,6,10,Systems,UI/UX Designer
+7.55,6,7,2,10,3,8,5,2,10,9,7,3,5,7,3,1,Systems,Project Manager
+8.36,7,1,1,10,1,8,2,5,1,7,5,2,1,8,6,2,Networking,Robotics Engineer
+8.5,8,9,3,9,4,6,7,3,4,6,10,10,2,1,3,9,Design,Mobile App Developer
+8.19,7,3,4,7,4,5,5,8,6,1,3,9,2,6,9,8,Design,Cloud Engineer
+6.69,7,5,1,5,9,4,4,6,9,6,7,3,4,10,2,2,Coding,Robotics Engineer
+6.14,3,2,9,5,5,8,2,7,5,9,5,3,10,10,8,4,Design,You don’t have enough skills yet. Keep learning!
+8.57,6,5,10,4,6,4,3,6,6,10,4,9,7,4,7,8,Management,Software Engineer
+6.84,2,10,4,3,7,4,1,6,2,8,4,6,3,1,8,6,Networking,You don’t have enough skills yet. Keep learning!
+6.22,3,9,1,8,2,5,10,4,6,10,8,10,3,5,6,6,Research,IoT Engineer
+7.99,7,8,2,3,6,7,4,10,7,8,3,1,8,8,4,2,Networking,Robotics Engineer
+7.27,6,7,3,9,2,8,3,10,3,1,9,8,8,6,9,5,Coding,Network Engineer
+9.64,9,6,8,6,5,5,4,2,2,1,4,2,10,2,2,5,Analytics,Blockchain Developer
+8.42,8,6,9,6,9,1,4,2,3,1,8,3,5,6,5,3,Coding,Mobile App Developer
+8.78,9,8,1,2,7,2,9,5,1,5,9,2,5,6,7,1,Networking,AI/ML Engineer
+7.04,10,1,10,10,2,9,10,1,7,5,5,8,9,3,10,6,Research,IoT Engineer
+7.96,6,10,5,5,5,5,7,9,9,9,7,5,8,1,5,5,Research,Software Engineer
+7.27,3,8,10,10,1,9,7,9,4,1,5,2,10,3,3,4,Management,Database Administrator
+7.08,8,1,4,9,2,2,2,5,3,4,4,5,5,8,8,4,Management,Robotics Engineer
+6.03,6,5,8,7,6,2,4,8,7,7,7,6,8,9,8,9,Research,Software Engineer
+6.77,6,5,4,10,7,8,1,8,6,9,5,3,10,7,1,9,Design,Project Manager
+9.52,2,2,6,4,4,7,10,5,8,5,9,6,6,1,8,4,Analytics,You don’t have enough skills yet. Keep learning!
+7.71,5,8,4,5,7,9,7,3,9,8,1,9,8,6,7,4,Management,You don’t have enough skills yet. Keep learning!
+7.32,8,8,8,5,10,7,4,10,10,2,10,2,4,1,9,1,Systems,Embedded Systems Engineer
+7.37,1,6,2,7,6,10,5,10,3,6,5,4,7,7,7,8,Research,Network Engineer
+9.17,1,1,1,7,9,10,2,3,3,4,7,8,1,7,3,3,Systems,You don’t have enough skills yet. Keep learning!
+6.24,2,3,10,3,8,5,4,9,4,4,3,8,1,1,1,4,Management,Cloud Engineer
+7.42,6,7,7,8,2,7,1,2,2,4,10,9,9,5,1,4,Design,Software Engineer
+6.96,2,4,4,5,6,7,4,10,2,9,8,8,3,9,1,4,Coding,Cloud Engineer
+8.68,6,10,3,3,3,2,6,1,7,6,1,4,4,1,6,9,Management,Software Engineer
+8.77,9,4,10,2,1,2,9,9,10,9,9,3,9,9,8,10,Analytics,UI/UX Designer
+8.41,6,9,9,3,2,10,1,10,8,6,4,6,2,7,6,1,Coding,Database Administrator
+6.65,7,10,3,6,9,7,2,2,5,7,4,6,7,1,5,3,Management,Software Engineer
+8.26,4,2,6,9,10,1,9,8,7,3,7,7,3,6,9,5,Networking,Cloud Engineer
+10.0,6,2,8,8,6,4,3,8,10,3,8,6,2,6,10,2,Research,Software Engineer
+8.65,2,7,10,10,7,3,8,8,10,4,1,9,2,7,5,4,Systems,Cloud Engineer
+8.48,6,2,6,5,2,2,4,1,10,4,5,5,9,1,4,8,Networking,UI/UX Designer
+7.36,9,4,9,8,3,6,4,9,9,10,6,2,2,1,2,7,Networking,Game Developer
+8.3,7,7,4,1,3,8,5,3,3,3,8,6,2,9,9,2,Research,Robotics Engineer
+9.03,4,6,8,9,3,3,5,3,4,3,6,2,9,5,9,6,Analytics,You don’t have enough skills yet. Keep learning!
+7.94,8,3,1,1,1,8,4,2,10,1,4,2,4,2,6,7,Coding,Web Developer
+8.74,4,8,1,4,2,3,1,1,9,8,3,8,5,4,10,5,Analytics,You don’t have enough skills yet. Keep learning!
+6.1,9,7,9,2,8,10,6,9,2,5,1,8,8,10,5,8,Research,Robotics Engineer
+6.58,6,2,2,5,4,3,8,8,10,7,3,4,2,3,10,7,Networking,Software Engineer
+8.89,5,2,8,5,10,9,2,7,3,3,9,4,2,3,3,8,Systems,Database Administrator
+9.45,7,1,8,3,6,3,9,7,2,5,1,6,3,6,4,9,Networking,Software Engineer
+6.57,1,3,3,10,8,7,6,4,2,5,4,5,3,7,2,2,Networking,You don’t have enough skills yet. Keep learning!
+9.45,10,9,8,2,6,9,10,3,8,4,1,4,4,1,1,1,Design,Game Developer
+8.15,9,9,2,7,1,4,2,8,3,10,8,6,6,2,10,8,Networking,Mobile App Developer
+8.7,3,10,10,2,8,3,5,3,9,7,10,4,10,2,10,5,Networking,Data Analyst
+9.23,9,2,4,5,8,6,3,1,3,7,6,10,4,5,5,3,Research,Software Engineer
+6.85,6,1,1,3,9,1,5,7,5,6,10,10,8,1,5,10,Coding,Cybersecurity Specialist
+9.73,1,4,4,2,7,4,8,7,3,3,10,3,8,5,7,7,Management,You don’t have enough skills yet. Keep learning!
+8.3,5,2,7,10,10,3,6,8,1,9,9,4,4,10,6,8,Research,Project Manager
+7.99,6,6,6,6,10,9,1,6,5,4,10,8,2,5,4,10,Analytics,Software Engineer
+8.99,6,5,9,10,1,7,8,8,6,2,7,7,7,8,9,6,Networking,Cloud Engineer
+7.51,6,10,9,3,2,2,10,9,4,4,4,9,9,5,5,5,Analytics,Cloud Engineer
+9.54,5,1,10,8,7,7,8,6,8,3,8,10,2,4,7,1,Networking,You don’t have enough skills yet. Keep learning!
+7.95,8,3,3,10,6,6,10,7,6,5,10,9,9,5,5,9,Analytics,Blockchain Developer
+6.29,9,5,4,6,1,6,2,2,1,4,7,7,10,9,7,9,Research,Robotics Engineer
+7.84,3,5,4,2,5,10,8,4,1,1,1,2,5,5,3,1,Systems,You don’t have enough skills yet. Keep learning!
+6.82,3,8,3,7,9,2,6,10,1,9,8,10,10,4,5,7,Systems,Cloud Engineer
+9.05,9,2,5,2,2,3,9,1,4,6,6,4,2,7,10,7,Research,IoT Engineer
+7.03,5,9,5,5,9,9,8,10,2,9,3,8,6,9,6,5,Coding,Cloud Engineer
+7.07,10,1,2,9,6,4,7,9,9,8,3,8,7,1,8,6,Coding,Project Manager
+7.72,8,2,5,7,3,5,2,3,3,3,7,9,4,2,7,3,Design,Mobile App Developer
+6.76,6,6,1,10,5,1,5,9,10,10,8,3,1,10,8,10,Systems,Project Manager
+6.48,1,4,10,7,5,9,10,3,3,6,10,9,2,2,8,1,Coding,Database Administrator
+9.44,1,3,6,8,9,8,10,9,10,1,6,3,6,10,2,3,Systems,Cybersecurity Specialist
+9.49,8,3,4,2,2,9,7,10,1,10,4,1,10,6,4,10,Systems,Embedded Systems Engineer
+7.54,3,4,10,10,6,3,6,9,5,10,8,10,1,3,4,5,Design,Project Manager
+9.43,9,7,5,2,7,1,6,2,1,3,5,5,4,6,1,6,Networking,Software Engineer
+9.52,6,3,1,6,7,9,6,9,2,6,5,8,1,6,4,6,Research,Cloud Engineer
+7.8,2,9,6,5,2,8,1,2,10,7,2,5,1,7,6,3,Design,You don’t have enough skills yet. Keep learning!
+9.61,8,9,5,3,2,3,2,10,2,2,3,9,4,3,9,7,Research,Network Engineer
+8.97,2,7,10,7,8,8,8,4,2,2,4,6,5,8,5,4,Analytics,You don’t have enough skills yet. Keep learning!
+6.64,8,5,8,3,4,2,5,3,1,6,9,1,8,7,5,8,Research,Blockchain Developer
+6.72,1,6,6,3,7,2,6,2,7,2,2,10,9,5,10,3,Coding,You don’t have enough skills yet. Keep learning!
+6.46,4,8,2,8,9,8,1,10,4,3,5,10,2,6,8,4,Management,Network Engineer
+9.49,3,9,4,6,4,9,1,5,2,6,9,7,3,9,7,7,Design,You don’t have enough skills yet. Keep learning!
+9.4,6,2,2,4,6,1,7,2,5,6,6,4,7,9,2,9,Design,Software Engineer
+9.11,5,7,1,7,1,9,5,6,7,5,5,5,10,9,5,7,Systems,You don’t have enough skills yet. Keep learning!
+8.49,9,3,8,5,8,10,7,9,6,3,5,7,6,1,9,6,Research,Network Engineer
+9.32,8,4,10,8,3,7,7,8,1,7,7,10,8,3,3,8,Networking,Blockchain Developer
+8.24,1,8,4,4,7,8,1,3,5,2,7,8,10,7,6,9,Coding,You don’t have enough skills yet. Keep learning!
+7.05,10,10,1,1,6,6,9,8,7,2,7,4,2,1,6,3,Management,AI/ML Engineer
+8.5,8,1,5,8,9,2,6,9,5,6,6,6,3,8,1,7,Analytics,Robotics Engineer
+9.1,10,9,8,3,3,7,2,6,1,6,5,4,7,7,7,1,Management,Data Analyst
+8.41,5,8,10,10,4,1,2,10,5,1,5,8,8,6,10,8,Systems,Network Engineer
+7.31,10,6,7,9,8,3,3,10,5,1,4,4,7,3,5,8,Design,Software Engineer
+9.85,4,4,5,4,9,8,2,2,5,8,2,10,10,7,1,1,Systems,You don’t have enough skills yet. Keep learning!
+9.07,4,2,5,7,3,6,3,7,1,2,1,5,10,8,3,5,Management,You don’t have enough skills yet. Keep learning!
+8.68,9,7,2,4,10,3,5,3,8,8,1,2,5,2,1,10,Networking,Game Developer
+6.06,7,3,10,8,9,3,3,9,10,9,7,8,5,9,10,9,Systems,Embedded Systems Engineer
+8.57,8,6,6,1,1,6,10,5,2,8,9,6,7,6,4,6,Design,AI/ML Engineer
+9.89,10,10,4,9,7,9,5,4,6,6,7,8,7,7,1,7,Research,Mobile App Developer
+9.24,7,2,4,1,6,4,7,10,9,10,9,6,2,4,4,5,Coding,Software Engineer
+9.72,7,5,3,2,6,2,10,8,4,4,3,3,4,10,4,8,Networking,Robotics Engineer
+9.8,6,10,1,1,2,7,8,5,6,4,1,6,5,3,6,4,Design,Software Engineer
+9.46,1,6,7,2,5,10,7,7,8,5,4,10,7,6,3,4,Systems,Database Administrator
+8.56,1,6,7,6,1,8,7,3,9,9,6,4,8,10,6,10,Design,UI/UX Designer
+9.32,7,2,10,2,1,6,2,4,6,1,3,9,7,6,6,9,Networking,Software Engineer
+8.78,3,4,8,7,7,6,2,7,1,4,6,2,8,6,10,8,Management,You don’t have enough skills yet. Keep learning!
+8.45,8,1,7,6,1,6,10,2,5,7,4,2,4,2,6,8,Management,AI/ML Engineer
+8.88,7,8,5,3,8,2,7,5,8,2,9,7,3,2,3,2,Management,Software Engineer
+7.14,4,5,8,6,6,2,6,9,10,9,9,9,10,3,6,7,Research,Cloud Engineer
+9.54,7,5,3,10,9,8,1,1,7,5,8,2,7,4,7,9,Networking,Software Engineer
+9.64,2,4,7,9,2,6,9,2,6,8,6,2,10,9,5,1,Networking,Project Manager
+7.48,8,2,6,10,7,10,2,2,2,2,1,5,3,8,7,10,Analytics,Robotics Engineer
+7.51,1,7,9,8,3,6,8,1,7,6,7,3,6,5,6,5,Systems,You don’t have enough skills yet. Keep learning!
+9.29,9,5,2,10,7,9,4,5,1,2,2,5,4,9,7,1,Networking,Robotics Engineer
+8.56,8,6,5,6,7,1,3,4,8,1,9,8,9,3,3,8,Systems,Embedded Systems Engineer
+9.07,8,2,7,8,6,4,6,2,6,3,1,10,2,1,3,9,Management,Software Engineer
+8.74,8,10,4,1,9,1,9,5,7,7,7,4,4,3,9,4,Analytics,AI/ML Engineer
+8.26,8,5,1,10,8,9,1,6,8,10,4,2,6,5,10,8,Management,Project Manager
+7.82,2,5,4,9,5,9,9,8,6,8,1,9,7,7,10,6,Analytics,Project Manager
+9.6,2,2,3,3,6,2,4,1,5,9,7,10,6,4,5,4,Systems,You don’t have enough skills yet. Keep learning!
+9.48,8,9,7,8,5,7,2,8,3,9,7,8,10,8,1,10,Design,Robotics Engineer
+9.81,9,6,9,7,2,6,6,1,9,2,6,4,3,7,7,6,Analytics,Game Developer
+9.76,6,10,5,1,9,4,9,6,7,1,10,9,9,9,2,2,Research,IoT Engineer
+9.47,7,10,8,9,6,7,1,2,8,7,10,4,2,3,10,5,Systems,Embedded Systems Engineer
+8.09,2,1,6,1,3,7,4,6,2,2,2,5,8,6,10,10,Research,You don’t have enough skills yet. Keep learning!
+8.87,2,2,3,9,1,3,1,1,2,3,8,7,10,2,4,2,Coding,You don’t have enough skills yet. Keep learning!
+9.31,9,4,2,8,5,5,9,7,6,8,7,9,7,4,3,9,Research,IoT Engineer
+8.48,9,9,7,7,8,6,5,1,7,4,6,3,9,1,8,8,Management,Blockchain Developer
+6.86,7,10,3,5,4,1,5,3,1,8,4,8,6,3,7,8,Coding,Software Engineer
+8.66,2,4,8,10,5,7,5,5,1,1,10,4,5,3,10,3,Management,You don’t have enough skills yet. Keep learning!
+9.79,1,1,2,2,2,8,1,2,3,4,6,9,6,6,8,8,Analytics,You don’t have enough skills yet. Keep learning!
+8.81,1,9,6,10,3,5,1,1,1,1,1,3,4,7,4,6,Management,You don’t have enough skills yet. Keep learning!
+7.11,8,1,6,2,10,1,9,7,10,4,5,1,9,10,7,6,Coding,Robotics Engineer
+7.32,3,9,10,7,5,5,10,9,3,4,4,9,4,6,4,10,Management,Cloud Engineer
+6.42,5,2,4,6,3,2,7,2,2,1,3,8,3,1,2,6,Research,You don’t have enough skills yet. Keep learning!
+6.6,10,8,10,5,8,9,9,6,7,9,3,4,3,6,7,4,Analytics,Database Administrator
+7.18,5,8,10,6,2,6,2,5,9,3,2,6,9,9,2,7,Management,Data Analyst
+8.28,4,5,10,6,8,2,7,10,7,1,6,9,9,9,6,2,Analytics,Cloud Engineer
+8.72,6,2,9,10,3,4,3,10,9,4,10,5,5,2,9,6,Management,Network Engineer
+8.52,7,5,1,2,7,10,10,3,6,5,2,1,10,3,5,1,Systems,Embedded Systems Engineer
+7.39,8,2,3,3,1,9,7,9,10,3,10,8,7,5,7,6,Networking,Network Engineer
+6.08,10,5,6,9,3,6,8,2,1,7,5,9,8,9,5,4,Research,IoT Engineer
+7.35,7,8,5,1,7,7,8,8,5,7,10,10,3,4,8,3,Systems,Embedded Systems Engineer
+6.89,10,5,9,6,2,2,3,6,7,10,1,4,5,6,5,1,Systems,Embedded Systems Engineer
+8.94,7,7,6,1,3,7,7,4,1,9,3,1,5,5,1,8,Systems,Embedded Systems Engineer
+7.7,5,2,9,9,9,1,5,7,9,8,7,5,5,10,6,6,Research,Project Manager
+7.22,7,8,8,10,5,6,5,9,7,4,2,8,5,2,4,9,Coding,Cloud Engineer
+6.37,10,6,8,4,6,8,1,6,3,8,5,7,3,6,4,10,Design,Web Developer
+6.79,10,8,8,7,5,1,7,3,9,7,5,7,7,9,2,2,Systems,Embedded Systems Engineer
+7.08,4,3,2,8,8,8,10,7,9,7,3,7,10,5,3,4,Management,You don’t have enough skills yet. Keep learning!
+7.65,10,1,2,2,7,4,2,9,2,4,5,9,8,7,1,9,Design,Blockchain Developer
+9.77,6,1,2,9,10,9,1,7,1,7,3,2,2,8,3,7,Coding,Cybersecurity Specialist
+8.86,5,7,10,4,1,8,10,9,1,5,4,10,2,1,7,8,Networking,Network Engineer
+9.63,6,9,8,10,4,1,6,5,5,10,2,6,2,8,5,9,Research,Project Manager
+8.63,4,8,1,3,8,1,10,9,10,10,10,8,7,6,6,4,Research,IoT Engineer
+8.43,4,3,6,7,1,7,6,2,10,10,7,4,4,8,9,1,Research,You don’t have enough skills yet. Keep learning!
+8.79,5,2,3,3,9,4,9,10,6,5,7,2,10,5,7,9,Analytics,Network Engineer
+9.9,8,9,1,6,6,9,3,7,7,6,7,10,2,9,7,9,Networking,Robotics Engineer
+7.87,3,8,4,8,3,3,9,10,9,2,3,6,6,6,3,10,Research,IoT Engineer
+8.56,1,10,2,4,10,6,3,5,3,8,5,10,10,9,8,5,Management,You don’t have enough skills yet. Keep learning!
+9.98,9,1,10,5,8,4,7,4,8,7,7,9,9,7,6,4,Coding,Blockchain Developer
+9.05,5,7,7,5,2,5,4,6,7,2,4,4,2,6,7,3,Analytics,You don’t have enough skills yet. Keep learning!
+9.27,7,6,4,6,3,4,6,6,6,1,6,7,6,6,4,4,Systems,Embedded Systems Engineer
+6.95,1,10,9,1,2,1,8,5,10,2,6,4,2,1,1,2,Design,Data Scientist
+8.31,5,9,4,8,7,9,5,1,1,2,1,10,2,2,2,10,Design,You don’t have enough skills yet. Keep learning!
+9.26,8,5,3,7,10,9,4,3,4,6,2,3,8,10,9,4,Design,Robotics Engineer
+6.96,9,9,10,6,4,1,6,2,4,6,7,7,6,7,7,6,Systems,Embedded Systems Engineer
+7.12,2,8,7,6,7,2,9,1,5,8,3,5,8,4,2,8,Coding,Data Analyst
+6.4,10,9,2,8,9,3,7,2,7,4,1,4,8,7,9,6,Systems,Embedded Systems Engineer
+7.32,4,10,8,1,7,5,8,6,6,7,2,4,9,7,7,6,Networking,Data Scientist
+9.62,9,10,5,2,4,2,8,1,10,7,4,9,4,4,7,4,Networking,Game Developer
+7.31,4,8,6,3,8,10,2,8,8,10,4,4,10,3,10,1,Networking,You don’t have enough skills yet. Keep learning!
+8.06,1,9,10,10,7,6,4,1,9,1,5,2,6,8,3,2,Research,Data Analyst
+6.06,4,10,10,2,6,7,5,5,5,10,8,6,4,7,10,3,Design,Data Analyst
+9.5,1,9,2,3,4,4,1,10,2,4,8,1,4,9,8,5,Coding,Network Engineer
+7.08,3,7,1,7,2,5,9,9,5,3,9,5,1,4,5,4,Systems,You don’t have enough skills yet. Keep learning!
+7.62,3,3,1,2,10,3,6,4,5,8,8,7,8,1,8,9,Systems,You don’t have enough skills yet. Keep learning!
+6.17,4,8,8,2,8,5,5,6,4,6,7,6,9,5,8,2,Coding,Data Analyst
+8.81,10,9,7,4,7,3,7,10,4,5,10,5,2,4,5,6,Design,Data Analyst
+7.12,5,6,6,6,9,6,10,3,1,6,1,1,4,7,8,1,Design,You don’t have enough skills yet. Keep learning!
+9.4,3,2,6,5,10,6,3,6,5,7,10,7,2,5,4,8,Design,You don’t have enough skills yet. Keep learning!
+6.47,1,3,8,4,8,7,2,3,6,7,4,8,4,2,1,2,Research,You don’t have enough skills yet. Keep learning!
+8.54,1,9,2,4,1,6,9,8,1,4,7,1,5,4,1,10,Design,You don’t have enough skills yet. Keep learning!
+9.07,5,9,9,2,4,1,1,4,7,4,2,3,4,4,4,8,Design,Data Analyst
+9.81,6,1,5,6,3,4,5,5,5,7,9,2,10,7,3,9,Networking,Software Engineer
+9.39,7,10,1,10,10,7,1,4,6,7,1,4,3,2,6,4,Design,Software Engineer
+7.13,8,6,5,3,7,2,2,1,9,7,4,8,2,9,5,3,Research,Robotics Engineer
+9.99,4,7,9,6,4,8,3,9,8,4,5,4,7,9,3,7,Coding,You don’t have enough skills yet. Keep learning!
+9.12,10,6,5,7,7,4,10,4,2,6,3,5,4,8,7,9,Design,Robotics Engineer
+6.75,5,6,1,1,5,10,5,7,5,7,5,8,10,7,6,10,Analytics,You don’t have enough skills yet. Keep learning!
+6.02,7,4,8,10,10,5,9,2,3,6,2,8,9,2,9,7,Research,IoT Engineer
+6.35,6,4,10,2,1,5,6,6,9,6,8,6,5,7,7,3,Design,Software Engineer
+9.96,4,9,5,5,9,4,6,3,4,1,8,8,6,10,1,1,Design,You don’t have enough skills yet. Keep learning!
+7.62,6,8,6,7,3,8,3,10,6,5,8,6,7,2,7,7,Networking,Network Engineer
+9.53,8,5,1,10,2,1,7,1,6,2,2,4,1,8,5,2,Coding,Robotics Engineer
+8.48,3,6,8,10,7,2,1,5,7,7,10,3,1,3,7,5,Management,You don’t have enough skills yet. Keep learning!
+8.14,2,1,3,1,4,3,6,5,5,10,2,8,3,6,4,6,Research,You don’t have enough skills yet. Keep learning!
+7.21,9,7,10,1,9,2,3,2,3,8,7,10,3,2,3,1,Coding,Mobile App Developer
+7.7,8,5,9,4,6,2,1,4,3,4,3,4,5,10,4,4,Analytics,Robotics Engineer
+7.97,5,8,4,8,8,7,10,1,9,4,4,3,3,7,3,6,Research,IoT Engineer
+8.14,2,7,3,10,1,10,8,1,7,8,6,10,9,2,10,8,Analytics,Project Manager
+7.75,4,1,5,6,3,5,8,7,10,8,5,4,9,7,10,4,Management,You don’t have enough skills yet. Keep learning!
+9.29,3,8,4,2,7,7,9,1,6,4,1,3,7,4,9,2,Management,You don’t have enough skills yet. Keep learning!
+6.13,7,1,3,1,10,7,8,6,9,9,3,3,4,6,1,2,Systems,Embedded Systems Engineer
+9.84,3,1,2,7,7,8,1,3,2,10,8,9,4,1,8,3,Management,You don’t have enough skills yet. Keep learning!
+6.18,9,4,10,7,4,7,1,10,4,2,2,2,7,1,1,3,Analytics,Web Developer
+6.69,2,10,9,6,4,8,4,9,6,4,4,1,7,6,9,3,Research,Network Engineer
+9.89,8,1,4,7,1,6,5,8,1,10,5,4,5,5,8,1,Networking,Software Engineer
+7.89,5,4,6,3,4,8,2,1,2,10,4,4,1,4,2,4,Systems,You don’t have enough skills yet. Keep learning!
+8.62,4,2,8,7,4,3,4,9,1,6,5,2,6,8,1,6,Networking,You don’t have enough skills yet. Keep learning!
+7.31,4,6,9,4,7,2,1,1,5,8,9,7,5,10,8,10,Management,You don’t have enough skills yet. Keep learning!
+6.04,8,10,6,2,9,2,1,2,2,10,5,10,5,9,6,2,Management,Robotics Engineer
+9.2,9,10,1,7,6,2,4,1,9,9,1,7,4,6,10,5,Systems,Embedded Systems Engineer
+9.97,9,4,9,5,1,1,2,6,4,8,9,3,5,8,6,8,Networking,Robotics Engineer
+9.72,1,2,3,9,5,9,6,7,3,6,4,9,5,6,5,5,Analytics,You don’t have enough skills yet. Keep learning!
+6.18,9,2,8,8,5,4,7,7,3,5,6,10,4,1,8,5,Networking,Software Engineer
+7.01,10,8,8,8,9,1,5,9,1,1,9,3,9,1,3,5,Research,Blockchain Developer
+9.12,6,10,1,2,3,7,4,5,1,1,1,4,1,2,8,4,Systems,Software Engineer
+6.46,9,2,1,4,5,9,8,2,2,2,2,8,2,2,10,2,Networking,Web Developer
+8.94,10,5,9,8,2,10,3,6,8,8,1,5,6,4,2,4,Networking,Game Developer
+8.09,1,5,4,5,8,5,9,8,8,10,3,8,9,10,3,10,Research,IoT Engineer
+7.53,8,10,10,8,9,3,4,2,3,4,6,9,9,9,9,10,Management,Robotics Engineer
+7.93,7,10,6,9,6,2,6,10,7,5,6,5,1,7,6,3,Analytics,Software Engineer
+6.69,6,4,5,10,9,3,8,8,9,8,6,10,9,1,1,8,Analytics,Project Manager
+9.9,1,1,8,8,7,10,6,6,4,8,10,10,2,4,2,8,Coding,Database Administrator
+6.31,5,1,5,3,3,7,6,1,6,8,6,4,3,2,7,1,Coding,You don’t have enough skills yet. Keep learning!
+7.6,8,5,6,7,5,8,4,10,3,4,6,10,7,4,2,1,Design,Cloud Engineer
+9.99,10,6,4,5,7,5,5,10,7,10,9,1,6,10,10,3,Analytics,Network Engineer
+7.64,9,1,7,9,9,6,6,5,10,1,6,9,5,9,5,2,Analytics,Robotics Engineer
+7.68,10,2,4,3,9,1,4,2,8,6,3,9,9,8,1,3,Analytics,Robotics Engineer
+7.25,9,9,6,1,4,1,3,7,10,10,2,9,5,8,1,2,Coding,Robotics Engineer
+6.87,10,4,2,9,3,3,9,4,3,4,2,1,9,2,4,3,Design,Blockchain Developer
+9.34,5,1,9,4,2,2,2,8,4,9,2,1,2,1,4,10,Design,You don’t have enough skills yet. Keep learning!
+7.48,10,7,7,2,5,9,9,10,3,4,2,4,4,10,10,7,Management,Network Engineer
+7.93,1,6,3,1,5,1,2,8,7,6,10,9,1,7,9,1,Design,Cloud Engineer
+9.33,5,2,1,2,10,6,4,8,10,10,5,5,1,5,7,4,Networking,Cybersecurity Specialist
+8.39,4,10,7,1,6,10,5,7,4,6,5,3,8,5,2,8,Management,Database Administrator
+7.29,5,2,4,8,7,9,10,5,8,8,2,7,3,7,6,1,Networking,You don’t have enough skills yet. Keep learning!
+6.09,5,8,6,4,7,1,7,7,7,7,4,9,5,5,10,6,Management,You don’t have enough skills yet. Keep learning!
+8.94,5,9,7,3,7,3,9,3,10,4,2,10,6,4,6,6,Research,IoT Engineer
+6.95,4,2,1,7,8,1,7,8,2,9,9,8,1,5,3,7,Systems,Cloud Engineer
+6.92,5,9,3,9,6,8,3,3,2,7,7,2,8,1,4,2,Systems,You don’t have enough skills yet. Keep learning!
+7.58,10,2,5,10,1,3,1,7,5,7,7,6,2,6,1,8,Analytics,Mobile App Developer
+7.43,6,7,7,1,9,6,7,8,1,3,7,4,2,3,1,10,Analytics,Cybersecurity Specialist
+7.92,6,1,4,10,8,4,9,4,4,9,3,2,6,8,9,4,Systems,Project Manager
+6.68,8,3,7,6,8,1,8,8,5,5,7,5,7,10,10,6,Networking,Robotics Engineer
+7.57,8,4,8,5,9,6,3,1,4,5,4,5,4,2,8,5,Management,Software Engineer
+6.82,9,2,6,3,1,10,4,9,3,2,8,8,2,3,3,7,Networking,Cloud Engineer
+8.34,6,4,5,3,10,5,10,2,5,5,4,5,5,3,1,4,Systems,Software Engineer
+6.08,1,4,4,8,1,3,4,9,3,6,7,3,4,10,3,5,Design,You don’t have enough skills yet. Keep learning!
+9.96,2,3,4,4,6,1,8,9,5,9,8,2,1,6,8,4,Research,IoT Engineer
+6.66,4,1,6,1,1,8,2,4,6,2,10,8,7,2,8,4,Networking,You don’t have enough skills yet. Keep learning!
+7.5,5,6,2,6,10,6,7,9,3,8,8,5,9,10,10,3,Coding,Network Engineer
+7.64,3,6,3,2,10,10,4,2,10,2,4,8,2,3,6,8,Networking,UI/UX Designer
+8.57,2,9,9,4,3,5,3,9,2,2,5,1,4,10,10,7,Analytics,Network Engineer
+7.05,10,1,8,3,1,5,1,5,1,10,5,8,4,5,9,4,Analytics,Software Engineer
+7.46,2,6,9,2,2,8,7,8,5,4,6,8,10,6,2,10,Management,Cloud Engineer
+9.01,4,1,8,1,9,1,6,4,7,3,7,4,3,7,9,2,Design,You don’t have enough skills yet. Keep learning!
+6.33,8,9,4,2,10,3,9,10,5,5,10,8,1,10,1,10,Research,IoT Engineer
+9.93,2,8,8,2,5,4,5,9,10,9,8,3,2,4,2,4,Design,Data Analyst
+8.66,4,7,2,4,6,1,4,4,9,2,7,5,6,2,5,7,Design,You don’t have enough skills yet. Keep learning!
+6.05,5,6,8,5,2,1,10,2,2,8,4,7,5,7,2,1,Design,You don’t have enough skills yet. Keep learning!
+8.99,9,6,7,2,9,8,7,1,6,6,4,4,8,2,10,6,Systems,Embedded Systems Engineer
+8.66,1,3,2,9,8,1,4,3,5,6,6,10,3,8,5,4,Systems,You don’t have enough skills yet. Keep learning!
+6.87,9,8,9,9,9,4,10,6,8,5,10,6,7,4,5,3,Management,Game Developer
+6.45,9,9,9,6,2,9,8,5,6,10,2,8,8,6,1,2,Management,Blockchain Developer
+6.21,9,6,3,6,10,9,7,3,10,10,1,1,7,6,6,7,Networking,Game Developer
+7.29,9,3,1,4,10,1,4,6,10,3,7,3,8,3,5,1,Systems,Embedded Systems Engineer
+6.89,2,9,8,8,9,1,2,7,10,4,9,2,8,6,9,6,Coding,Cybersecurity Specialist
+6.15,2,8,1,2,2,1,5,5,3,10,3,10,4,8,10,10,Systems,You don’t have enough skills yet. Keep learning!
+9.84,7,7,9,10,8,1,2,8,1,10,1,8,6,7,9,1,Management,Project Manager
+6.31,1,6,7,3,6,2,2,10,4,2,10,10,10,2,3,1,Management,Cloud Engineer
+6.88,8,9,6,5,10,8,10,6,8,3,8,7,2,1,7,9,Management,AI/ML Engineer
+9.99,2,5,10,2,10,4,7,5,1,8,8,9,2,9,5,5,Management,You don’t have enough skills yet. Keep learning!
+8.9,4,1,5,10,9,10,8,1,8,10,5,7,6,2,10,1,Management,Project Manager
+6.35,1,5,6,6,8,6,6,7,8,5,2,7,7,7,4,4,Research,You don’t have enough skills yet. Keep learning!
+7.66,1,7,8,1,2,7,3,2,8,2,10,6,5,8,8,4,Research,You don’t have enough skills yet. Keep learning!
+9.98,9,2,2,7,4,10,3,1,3,9,6,2,9,3,6,1,Design,Blockchain Developer
+7.22,8,10,7,4,9,1,7,10,10,4,8,4,7,2,7,8,Networking,UI/UX Designer
+6.82,1,6,1,5,7,9,10,6,6,3,6,1,7,9,7,6,Coding,You don’t have enough skills yet. Keep learning!
+7.56,9,5,3,10,6,1,5,2,10,1,10,9,7,3,7,8,Research,UI/UX Designer
+9.83,2,2,5,2,7,6,4,10,2,1,6,8,8,2,10,3,Networking,Network Engineer
+7.52,2,6,3,8,8,7,10,1,1,6,3,3,2,1,8,7,Management,You don’t have enough skills yet. Keep learning!
+8.36,8,6,7,10,3,7,4,5,9,5,5,3,8,5,8,2,Design,Blockchain Developer
+8.46,7,3,1,5,4,6,3,4,7,4,5,10,3,6,7,2,Analytics,Software Engineer
+9.34,2,6,8,2,10,9,5,10,5,9,6,4,8,6,7,5,Analytics,Network Engineer
+7.91,1,9,7,10,5,10,10,1,2,5,5,3,6,5,4,6,Systems,Database Administrator
+6.88,7,3,9,3,1,4,8,6,3,2,6,4,7,1,10,9,Management,Software Engineer
+9.7,1,9,2,10,10,3,10,9,6,1,4,2,5,4,5,10,Design,Cybersecurity Specialist
+7.1,2,4,5,9,9,4,10,2,5,1,4,3,9,2,10,7,Networking,You don’t have enough skills yet. Keep learning!
+9.89,1,4,3,10,10,3,3,4,8,8,10,9,8,3,10,3,Systems,Project Manager
+8.73,5,8,4,3,9,3,10,6,1,3,1,9,4,10,10,9,Analytics,You don’t have enough skills yet. Keep learning!
+7.36,4,10,6,3,2,1,2,6,1,3,7,9,4,6,5,3,Design,You don’t have enough skills yet. Keep learning!
+9.77,9,10,7,8,1,7,4,9,8,2,4,1,9,5,6,6,Design,Blockchain Developer
+9.16,3,6,8,6,10,6,10,5,10,1,9,2,4,5,6,10,Analytics,UI/UX Designer
+8.5,8,9,7,6,10,7,4,7,8,6,9,1,7,5,7,3,Design,Cybersecurity Specialist
+7.46,1,10,9,10,2,6,7,9,3,9,10,2,6,3,9,2,Networking,Project Manager
+6.58,4,1,9,2,7,1,9,8,5,1,3,5,2,2,4,1,Coding,You don’t have enough skills yet. Keep learning!
+7.19,2,5,2,5,2,2,4,1,10,6,2,3,2,2,9,8,Design,UI/UX Designer
+7.07,9,3,1,4,3,2,8,10,7,9,1,6,7,8,6,1,Design,Robotics Engineer
+6.66,4,10,3,8,5,10,2,4,1,7,4,8,8,10,2,1,Networking,You don’t have enough skills yet. Keep learning!
+7.19,3,7,8,7,6,7,1,7,1,5,9,3,8,1,9,2,Management,You don’t have enough skills yet. Keep learning!
+6.2,9,4,4,7,4,9,5,2,7,7,5,10,4,2,10,3,Research,Web Developer

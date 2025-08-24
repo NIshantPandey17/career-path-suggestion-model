@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import pandas as pd
-<<<<<<< HEAD
+
 import os
 
 # Set page configuration
@@ -581,4 +581,4 @@ if st.button("🔍 Suggest Career"):
     prediction = model.predict(input_df)[0]
     predicted_career = label_encoder.inverse_transform([prediction])[0]
     st.success(f"🎯 Suggested Career Path: **{predicted_career}**")
->>>>>>> 8505cb884a6edfe2f465aebfa4ba2fc02422c3d3
+ 

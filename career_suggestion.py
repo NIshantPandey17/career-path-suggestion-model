@@ -49,16 +49,6 @@ st.markdown("""
         opacity: 0.9;
         margin: 0;
     }
-    
-    /* Custom card styling */
-    .custom-card {
-        background: rgba(255, 255, 255, 0.95);
-        padding: 2rem;
-        border-radius: 20px;
-        margin: 1rem 0;
-        box-shadow: 0 15px 35px rgba(0,0,0,0.1);
-        backdrop-filter: blur(10px);
-        border: 1px solid rgba(255,255,255,0.2);
     }
     
     /* Results styling */
